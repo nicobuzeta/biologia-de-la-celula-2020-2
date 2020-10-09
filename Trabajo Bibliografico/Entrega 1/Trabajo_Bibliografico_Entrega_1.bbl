@@ -1,0 +1,457 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{albertsBiologiaMolecularCelula2010}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fb62457c285c73db074f895ec8f95805}{%
+           family={Alberts},
+           familyi={A\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc7e44d328a2dff603a2d17844402487}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46375a11d2abef2e3dc80240348eaba6}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Omega}%
+      }
+      \strng{namehash}{e9a8f9a71c33ec6ac86a6beb3554e231}
+      \strng{fullhash}{d83fc1b66efe6cb2d2f005a7b5869512}
+      \strng{bibnamehash}{d83fc1b66efe6cb2d2f005a7b5869512}
+      \strng{authorbibnamehash}{d83fc1b66efe6cb2d2f005a7b5869512}
+      \strng{authornamehash}{e9a8f9a71c33ec6ac86a6beb3554e231}
+      \strng{authorfullhash}{d83fc1b66efe6cb2d2f005a7b5869512}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La cantidad de información sobre las ciencias de la vida está aumentando rápidamente, pero la capacidad cerebral del ser humano no. La genómica nos ha proporcionado una nueva perspectiva que nos ha obligado a una revisión completa y aumentada del material sobre genética molecular.}
+      \field{annotation}{OCLC: 708275267}
+      \field{isbn}{978-84-282-1507-7}
+      \field{langid}{spanish}
+      \field{title}{Biología molecular de la célula}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\7ZYUF5WC\\Alberts et al. - 2010 - Biología molecular de la célula.pdf
+      \endverb
+    \endentry
+    \entry{carletonAdvancesComputationalMolecular2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c7cbb33059cd59d69d36cd497ea68884}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edb8f4318a8edc750cc3b124062cb40b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16824ad24dd47afdeba94b4dc7f268bd}{%
+           family={Madabhushi},
+           familyi={M\bibinitperiod},
+           given={Anant},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d9e08215f67091600e15d3e91e5c7b2}{%
+           family={Veltri},
+           familyi={V\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{483d91f7b9d6489e8266eee7e2237bb1}
+      \strng{fullhash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{bibnamehash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{authorbibnamehash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{authornamehash}{483d91f7b9d6489e8266eee7e2237bb1}
+      \strng{authorfullhash}{7f4bc69b0297224e9752be499e8310a6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nuclear alterations are a hallmark of many types of cancers, including prostate cancer (PCa). Recent evidence shows that subvisual changes, ones that may not be visually perceptible to a pathologist, to the nucleus and its ultrastructural components can precede visual histopathological recognition of cancer. Alterations to nuclear features such as nuclear size and shape, texture, and spatial architecture reflect the complex molecular level changes that occur during oncogenesis. Quantitative nuclear morphometry, a field that uses computational approaches to identify and quantify malignancy-induced nuclear changes, can enable a detailed and objective analysis of the prostate cancer cell nucleus. Recent advances in machine learning-based approaches can now automatically mine data related to these changes to aid in diagnostic decision-making and prediction of PCa prognoses. In this review, we use prostate cancer as a case study to connect the molecular level mechanisms that underlie these nuclear changes to the machine learning computational approaches, bridging the gap between the clinical and computational understanding of PCa. First, we discuss recent developments to our understanding of molecular events that drive nuclear alterations in the context of prostate cancer: the role of the nuclear matrix and lamina in size and shape changes, the role of three-dimensional chromatin organization and epigenetic modifications in textural changes, and role the tumor microenvironment in altering nuclear spatial topology. We then discuss the advances in the applications of machine learning algorithms to automatically segment nuclei in prostate histopathological images, extract nuclear features to aid in diagnostic decision-making, and predict potential outcomes such as biochemical recurrence and survival. Lastly, we discuss the challenges and opportunities associated with translation of the quantitative nuclear morphometry methodology into the clinical space. Ultimately, accurate identification and quantification of nuclear alterations can contribute to the field of nucleomics and has applications for computationally driven precision oncologic patient care.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0730-2312}
+      \field{journaltitle}{Journal of cellular biochemistry}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{J Cell Biochem}
+      \field{title}{Advances in the {{Computational}} and {{Molecular Understanding}} of the {{Prostate Cancer Cell Nucleus}}}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{119}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{7127\bibrangedash 7142}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/jcb.27156
+      \endverb
+      \verb{eprint}
+      \verb 29923622
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\AZMZQ5GK\\Carleton et al. - 2018 - Advances in the Computational and Molecular Unders.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150831/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150831/
+      \endverb
+    \endentry
+    \entry{kourouMachineLearningApplications2015}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6ba1e26965518203d961556e96eafee1}{%
+           family={Kourou},
+           familyi={K\bibinitperiod},
+           given={Konstantina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8edc2843307ee0805cb2f516acf47ea}{%
+           family={Exarchos},
+           familyi={E\bibinitperiod},
+           given={Themis\bibnamedelima P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=035c8bc05672fef3953eb78e900ac659}{%
+           family={Exarchos},
+           familyi={E\bibinitperiod},
+           given={Konstantinos\bibnamedelima P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=445f33cd64985e305867248c9a245072}{%
+           family={Karamouzis},
+           familyi={K\bibinitperiod},
+           given={Michalis\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c71e2e9256f9b3f845f5eefc9e8815af}{%
+           family={Fotiadis},
+           familyi={F\bibinitperiod},
+           given={Dimitrios\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6bc5f9967a8390b403476d4ffa6bc05}
+      \strng{fullhash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{bibnamehash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{authorbibnamehash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{authornamehash}{b6bc5f9967a8390b403476d4ffa6bc05}
+      \strng{authorfullhash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancer has been characterized as a heterogeneous disease consisting of many different subtypes. The early diagnosis and prognosis of a cancer type have become a necessity in cancer research, as it can facilitate the subsequent clinical management of patients. The importance of classifying cancer patients into high or low risk groups has led many research teams, from the biomedical and the bioinformatics field, to study the application of machine learning (ML) methods. Therefore, these techniques have been utilized as an aim to model the progression and treatment of cancerous conditions. In addition, the ability of ML tools to detect key features from complex datasets reveals their importance. A variety of these techniques, including Artificial Neural Networks (ANNs), Bayesian Networks (BNs), Support Vector Machines (SVMs) and Decision Trees (DTs) have been widely applied in cancer research for the development of predictive models, resulting in effective and accurate decision making. Even though it is evident that the use of ML methods can improve our understanding of cancer progression, an appropriate level of validation is needed in order for these methods to be considered in the everyday clinical practice. In this work, we present a review of recent ML approaches employed in the modeling of cancer progression. The predictive models discussed here are based on various supervised ML techniques as well as on different input features and data samples. Given the growing trend on the application of ML methods in cancer research, we present here the most recent publications that employ these techniques as an aim to model cancer risk or patient outcomes.}
+      \field{day}{1}
+      \field{issn}{2001-0370}
+      \field{journaltitle}{Computational and Structural Biotechnology Journal}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Computational and Structural Biotechnology Journal}
+      \field{title}{Machine Learning Applications in Cancer Prognosis and Prediction}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{13}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{8\bibrangedash 17}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.csbj.2014.11.005
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\BBW5CR5Y\\Kourou et al. - 2015 - Machine learning applications in cancer prognosis .pdf;C\:\\Users\\nicol\\Zotero\\storage\\5I9TT3XX\\S2001037014000464.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S2001037014000464
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2001037014000464
+      \endverb
+      \keyw{Cancer recurrence,Cancer survival,Cancer susceptibility,Machine learning,Predictive models}
+    \endentry
+    \entry{MachineLearningCambridge}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{machine learning definition: 1. the process of computers changing the way they carry out tasks by learning from new data…. Learn more.}
+      \field{langid}{english}
+      \field{title}{Machine {{Learning}} | {{Cambridge English Dictionary}}}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\LJC48WVX\\machine-learning.html
+      \endverb
+      \verb{urlraw}
+      \verb https://dictionary.cambridge.org/dictionary/english/machine-learning
+      \endverb
+      \verb{url}
+      \verb https://dictionary.cambridge.org/dictionary/english/machine-learning
+      \endverb
+    \endentry
+    \entry{rynearsonNuclearStructureOrganization2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e3a06626293c0b791507f2f408aca1c}{%
+           family={Rynearson},
+           familyi={R\bibinitperiod},
+           given={Amanda\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=812e7490a99f53783ebf96da17a4028c}{%
+           family={Sussman},
+           familyi={S\bibinitperiod},
+           given={Caroline\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{fullhash}{0910b2560ecfad643deba749e6157c85}
+      \strng{bibnamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authorbibnamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authornamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authorfullhash}{0910b2560ecfad643deba749e6157c85}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The genetic code has received a great amount of attention from investigators, and the media since its discovery, and then again with the sequencing of the human genome in 2000. A decade later, investigators are beginning to look beyond the raw sequence to other mechanisms that affect gene expression. The main function of the nucleus is to maintain the genome and regulate gene expression. Changes in the expression of genes can drastically change the properties of the cell therefore giving the nucleus a role as the cell's "command post." In the past few years, one of the most notable discoveries in the study of the nucleus is that this organelle is not homogeneous. It is also not randomly organized; everything within the nucleus has a specific location with a specific function. Chromosome location within the nucleus relative to its center is directly related to transcription level. Additionally, there are specific regions of the nucleus where content and function differ. The various structures of the nucleus such as the membranes and matrix that supply support to the well protected chromatin offer ever increasing layers of complexity to the nucleus. Here, we focus on the nuclear matrix and its possible effects on signaling and cellular transformation leading to cancer.}
+      \field{eprinttype}{pmid}
+      \field{issn}{1941-6636}
+      \field{journaltitle}{Journal of Gastrointestinal Cancer}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{J Gastrointest Cancer}
+      \field{title}{Nuclear Structure, Organization, and Oncogenesis}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{112\bibrangedash 117}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12029-011-9253-5
+      \endverb
+      \verb{eprint}
+      \verb 21286858
+      \endverb
+      \keyw{Cell Nucleus,Cell Transformation; Neoplastic,Chromosomes,Gene Expression Regulation,Humans}
+    \endentry
+    \entry{sirinukunwattanaLocalitySensitiveDeep2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6a05c026a83201fdebbca698eddc224f}{%
+           family={Sirinukunwattana},
+           familyi={S\bibinitperiod},
+           given={Korsuk},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a48ab1c4088ad93bc305b55b50d00946}{%
+           family={Raza},
+           familyi={R\bibinitperiod},
+           given={Shan\bibnamedelimb E\bibnamedelima Ahmed},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bccf718a80c4b4f6a565e62b29a6287}{%
+           family={Tsang},
+           familyi={T\bibinitperiod},
+           given={Yee-Wah},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8efe761fb739c6aa5c17aef4a537b296}{%
+           family={Snead},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelimb R.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56775695326e38b1410b59169dcf80f3}{%
+           family={Cree},
+           familyi={C\bibinitperiod},
+           given={Ian\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3adf5249ac917ba03ae0060f5cd8fb6}{%
+           family={Rajpoot},
+           familyi={R\bibinitperiod},
+           given={Nasir\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6ca87a676dec26f81e678564a18ac30}
+      \strng{fullhash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{bibnamehash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{authorbibnamehash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{authornamehash}{d6ca87a676dec26f81e678564a18ac30}
+      \strng{authorfullhash}{a72c9435a1daa3fc954af1620b73e17e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detection and classification of cell nuclei in histopathology images of cancerous tissue stained with the standard hematoxylin and eosin stain is a challenging task due to cellular heterogeneity. Deep learning approaches have been shown to produce encouraging results on histopathology images in various studies. In this paper, we propose a Spatially Constrained Convolutional Neural Network (SC-CNN) to perform nucleus detection. SC-CNN regresses the likelihood of a pixel being the center of a nucleus, where high probability values are spatially constrained to locate in the vicinity of the centers of nuclei. For classification of nuclei, we propose a novel Neighboring Ensemble Predictor (NEP) coupled with CNN to more accurately predict the class label of detected cell nuclei. The proposed approaches for detection and classification do not require segmentation of nuclei. We have evaluated them on a large dataset of colorectal adenocarcinoma images, consisting of more than 20,000 annotated nuclei belonging to four different classes. Our results show that the joint detection and classification of the proposed SC-CNN and NEP produces the highest average F1 score as compared to other recently published approaches. Prospectively, the proposed methods could offer benefit to pathology practice in terms of quantitative analysis of tissue constituents in whole-slide images, and potentially lead to a better understanding of cancer.}
+      \field{eventtitle}{{{IEEE Transactions}} on {{Medical Imaging}}}
+      \field{issn}{1558-254X}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Locality {{Sensitive Deep Learning}} for {{Detection}} and {{Classification}} of {{Nuclei}} in {{Routine Colon Cancer Histology Images}}}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1196\bibrangedash 1206}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TMI.2016.2525803
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\NJH4QR7S\\Sirinukunwattana et al. - 2016 - Locality Sensitive Deep Learning for Detection and.pdf;C\:\\Users\\nicol\\Zotero\\storage\\R8HM55TB\\7399414.html
+      \endverb
+      \keyw{biological organs,biomedical optical imaging,cancer,Cancer,cancerous tissue,cell nuclei classification,cell nuclei detection,Cell Nucleus,Cell Proliferation,cellular biophysics,cellular heterogeneity,Colon,Colonic Neoplasms,colorectal adenocarcinoma images,Computer architecture,Convolutional neural network,dataset,deep learning,eosin stain,Feature extraction,high-probability values,highest average F1 score,Histocytochemistry,histology image analysis,histopathology images,Humans,image classification,Image Interpretation; Computer-Assisted,joint detection,learning (artificial intelligence),locality sensitive deep learning,Machine learning,Machine Learning,medical image processing,Microprocessors,neighboring ensemble predictor,NEP,Neural Networks (Computer),nucleus detection,probability,quantitative analysis,routine colon cancer histology images,SC-CNN,Shape,spatially constrained convolutional neural network,standard hematoxylin,tissue constituents,Tumors,tumours,whole-slide images}
+    \endentry
+    \entry{UrineCytologyMayo}{online}{}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Urine Cytology - {{Mayo Clinic}}}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\962MRW8I\\pac-20385279.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mayoclinic.org/tests-procedures/urine-cytology/about/pac-20385279
+      \endverb
+      \verb{url}
+      \verb https://www.mayoclinic.org/tests-procedures/urine-cytology/about/pac-20385279
+      \endverb
+    \endentry
+    \entry{zinkNuclearStructureCancer2004}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=52b4b62c7bd3d5eefa3f3f4beeb7eadf}{%
+           family={Zink},
+           familyi={Z\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bbe9dc77c163a288bbff051e72408e0}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Andrew\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0854ee058881641f088e0271e1a6c3d7}{%
+           family={Nickerson},
+           familyi={N\bibinitperiod},
+           given={Jeffrey\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{f40a4e9be02d193a3011c2e1e1840e8e}
+      \strng{fullhash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{bibnamehash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{authorbibnamehash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{authornamehash}{f40a4e9be02d193a3011c2e1e1840e8e}
+      \strng{authorfullhash}{6f476d3afa468b3f07af470aa2827479}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The architecture of cell nuclei is often altered in cancer cells. Specific tumour types are associated with characteristic alterations, and these provide an important diagnostic feature.The nuclear matrix participates in the spatial organization of the genome and other nuclear components. The protein composition of the nuclear matrix is altered in tumour cells and these changes might be useful tumour markers.Characteristic changes of nuclear shape and of chromatin texture can be induced in normal cells in vitro by oncogene activation. In vitro models will help to unravel the mechanisms by which oncogenes induce these tumour-specific nuclear changes and how these changes affect gene regulation.Chromosome territories and gene loci display characteristic spatial arrangements in cell nuclei, and these have an important role in the generation of diagnostically significant translocations associated with human malignancies.Structural alterations in tumour cells also include changes in nucleoli and the appearance of the perinucleolar compartment. These might be useful diagnostic markers in combination with automated imaging and image analysis.The promyelocytic leukaemia (PML) protein, an essential component of PML bodies, is mislocalized in leukaemic cells of patients with acute promyelocytic leukaemia, leading to the disruption of PML bodies. Treatment with anticancer drugs leads to the reassembly of PML bodies and a reversion of the malignant phenotype.High-throughput nuclear-structure-based assays to screen drugs for their ability to revert malignancy-associated nuclear changes might identify new therapeutics.}
+      \field{issn}{1474-1768}
+      \field{issue}{9}
+      \field{journaltitle}{Nature Reviews Cancer}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Nuclear Structure in Cancer Cells}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{4}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{677\bibrangedash 687}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/nrc1430
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\nicol\\Zotero\\storage\\Y5A3CZ3M\\Zink et al. - 2004 - Nuclear structure in cancer cells.pdf;C\:\\Users\\nicol\\Zotero\\storage\\3M6VTHSG\\nrc1430.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nrc1430
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nrc1430
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
