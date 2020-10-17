@@ -1,0 +1,90 @@
+% !TeX spellcheck = es_ES
+\documentclass[12pt, letterpaper]{article}
+
+\setlength{\parskip}{\baselineskip}
+
+\usepackage[pass, letterpaper]{geometry}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{spanish}
+
+\usepackage{graphicx}
+
+\usepackage{csquotes}
+
+\usepackage{fullpage}	
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{Trabajo_Bibliografico_Entrega_2.bib}
+\usepackage{hyperref}
+\begin{document}
+
+\begin{titlepage}
+	\begin{picture}(400, 75)
+	   \put(-40,15){\includegraphics[width=2.3cm]{LogoUC_COLOR_.jpg}}
+	   \put(30,50){PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE}
+	   \put(30,35){FACULTAD DE BIOLOGIA}
+	   \put(30,20){BIO141C}
+	
+	\end{picture}
+	
+	\vspace{2cm}
+	\begin{center}
+		
+		\textbf{{\large Trabajo Bibliográfico - Entrega 2:}\\
+		\vspace{1em}
+		{\Large XDXDXDXDXD}\\}
+		
+		\vspace{2.0cm}
+		
+		{\Large by}
+		
+		
+		\begin{description}
+			\centering
+			\item {\textit{Nicol\'as Buzeta}}
+			\item {\textit{Jos\'e Caceres}}
+			\item {\textit{Benjamin Barrios}}
+			\item {\textit{Carlos \'Alvarez}}
+		\end{description}
+		
+		\vspace{0.5cm}
+		\begin{normalsize}
+			\begin{tabular}{rcl}
+				\emph{Profesora} &:& Alicia Nogueras\\
+				\emph{Tutor} &:& Andr\'es Carreño\\
+			\end{tabular}
+		\end{normalsize}
+		
+		\vspace{1cm}
+		
+		\today
+		
+	\end{center}
+\end{titlepage}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\section{Introducción}
+
+El Cáncer involucra en gran medida, procesos en las células que son alterados por una falla o mutación de estos mismos. Algunos de estos procesos celulares alterados por el cáncer desde la aparición temprana hasta una etapa avanzada son en la mayoría de los casos, la señalización celular, el ciclo celular y la apoptosis, los cuales serán de vital importancia para explicar la aplicación del estudio.
+
+La señalización celular es la comunicación entre células, que está mediada por moléculas de señalización extracelulares, esta comunicación puede ser entre células lejanas o entre células vecinas. La recepción está a cargo de proteínas receptoras que se encuentran en la superficie celular, estas activan los sistemas de señalización intracelular, los cuales distribuyen la señal hacia los efectores y son estos últimos los que median el cambio necesario en la célula según la señal recibida \autocite[p.~879]{albertsBiologiaMolecularCelula2010}.
+
+También está el ciclo celular que es el mecanismo mediante el cual todos los organismos se reproducen, este se lleva a cabo a través de una secuencia ordenada de acontecimientos ocurridos en la célula en los que duplica su contenido y luego se divide en dos. Todo este proceso está regularizado por proteínas que controlan de cierta forma el realizar la división celular para sí solo llevarlo a cabo cuando sea necesario \autocite[p.~1053]{albertsBiologiaMolecularCelula2010}.
+
+Por último, la muerte celular programada se lleva a cabo en la mayoría de los casos mediante un proceso denominado apoptosis, el cual cuando una célula se daña o se infecta procede a su muerte. Este proceso se lleva a cabo mediante una secuencia de procesos moleculares, en los que la célula se destruye así misma desde dentro de forma sistemática siendo luego digerida por otras células, sin dejar rastro \autocite[p.~1115]{albertsBiologiaMolecularCelula2010}.
+
+Todos estos procesos recién nombrados, al ser alterados por la existencia del cáncer en una persona, cumplirán un rol importante al momento de determinar su existencia desde sus inicios, ya que al examinarlos, podremos darnos cuenta si hay rastro alguno de un posible cáncer a nivel intercelular.
+
+En esta investigación nosotros ocuparemos una tecnología relativamente nueva, llamada machine learning. Esta tecnología es capaz de aprender, por experiencia, de forma autónoma e independiente \autocite{MachineLearningCambridge}. De esta forma, nosotros nos centraremos en buscar y analizar las características de los núcleos celulares. De este modo podremos detectar cambios chicos en su estructura y forma, y con estos datos, hacer una predicción sobre el estado de esa célula.
+
+\printbibliography
+\end{document}

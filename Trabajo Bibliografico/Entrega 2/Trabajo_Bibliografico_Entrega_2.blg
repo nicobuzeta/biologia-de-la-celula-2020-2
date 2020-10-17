@@ -1,0 +1,14 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'Trabajo_Bibliografico_Entrega_2.blg'
+[96] biber-MSWIN32:330> INFO - === 
+[114] Biber.pm:415> INFO - Reading 'Trabajo_Bibliografico_Entrega_2.bcf'
+[240] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
+[260] Biber.pm:4334> INFO - Processing section 0
+[273] Biber.pm:4523> INFO - Looking for bibtex format file 'Trabajo_Bibliografico_Entrega_2.bib' for section 0
+[286] bibtex.pm:1682> INFO - LaTeX decoding ...
+[318] bibtex.pm:1494> INFO - Found BibTeX data source 'Trabajo_Bibliografico_Entrega_2.bib'
+[371] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[371] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[371] Biber.pm:4162> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[378] bbl.pm:651> INFO - Writing 'Trabajo_Bibliografico_Entrega_2.bbl' with encoding 'UTF-8'
+[380] bbl.pm:754> INFO - Output to Trabajo_Bibliografico_Entrega_2.bbl

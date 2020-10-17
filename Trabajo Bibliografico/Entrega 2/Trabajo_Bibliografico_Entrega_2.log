@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.9.5)  12 OCT 2020 22:42
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.9.5)  12 OCT 2020 22:50
  restricted system commands enabled.
-**Trabajo_Bibliografico_Entrega_1.tex
-(./Trabajo_Bibliografico_Entrega_1.tex
+**Trabajo_Bibliografico_Entrega_2.tex
+(./Trabajo_Bibliografico_Entrega_2.tex
 LaTeX2e <2020-02-02> patch level 5
 Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
 Lua module: luaotfload-init 2020-09-02 3.15 luaotfload submodule / initializatio
@@ -269,12 +269,12 @@ braces):
 >  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
-(polyglossia)            lefthyphenmin	2
-(polyglossia)            hyphenation	
 (polyglossia)            patterns	hyph-es.pat.txt
-(polyglossia)            righthyphenmin	2
+(polyglossia)            hyphenation	
 (polyglossia)            synonyms	espanol
-(polyglossia)            loader	loadhyph-es.tex on input line 13
+(polyglossia)            righthyphenmin	2
+(polyglossia)            loader	loadhyph-es.tex
+(polyglossia)            lefthyphenmin	2 on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -328,36 +328,32 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 luaotfload | cache : Lookup cache loaded from C:/texlive/2020/texmf-var/luatex-c
 ache/generic/names/luaotfload-lookup-cache.luc.
 
-Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
-(fontspec)             New Roman' with options [Ligatures=TeX].
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman:mode=node;script=latn;language=dflt;+tl
-ig;"
+(fontspec)             <->"Arial:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman:mode=node;script=latn;language=dflt;+tl
-ig;+smcp;"
+(fontspec)             <->"Arial:mode=node;script=latn;language=dflt;+tlig;+smcp
+;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/B:mode=node;script=latn;language=dflt;+
-tlig;"
+(fontspec)             <->"Arial/B:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/B:mode=node;script=latn;language=dflt;+
-tlig;+smcp;"
+(fontspec)             <->"Arial/B:mode=node;script=latn;language=dflt;+tlig;+sm
+cp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/I:mode=node;script=latn;language=dflt;+
-tlig;"
+(fontspec)             <->"Arial/I:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/I:mode=node;script=latn;language=dflt;+
-tlig;+smcp;"
+(fontspec)             <->"Arial/I:mode=node;script=latn;language=dflt;+tlig;+sm
+cp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/BI:mode=node;script=latn;language=dflt;
-+tlig;"
+(fontspec)             <->"Arial/BI:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"TimesNewRoman/BI:mode=node;script=latn;language=dflt;
-+tlig;+smcp;"
+(fontspec)             <->"Arial/BI:mode=node;script=latn;language=dflt;+tlig;+s
+mcp;"
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -751,7 +747,7 @@ Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 
-(./Trabajo_Bibliografico_Entrega_1.aux
+(./Trabajo_Bibliografico_Entrega_2.aux
 LaTeX Info: Redefining \rmfamily on input line 23.
 LaTeX Info: Redefining \sffamily on input line 23.
 LaTeX Info: Redefining \ttfamily on input line 23.
@@ -761,7 +757,7 @@ uage esp
 Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
 
 )
-\openout1 = Trabajo_Bibliografico_Entrega_1.aux
+\openout1 = Trabajo_Bibliografico_Entrega_2.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -851,32 +847,25 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 23
-.
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 23.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 2
-3.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on i
-nput line 23.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 
-23.
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 2
-3.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on i
-nput line 23.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line
- 23.
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -925,11 +914,11 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout3 = Trabajo_Bibliografico_Entrega_1.bcf
+\openout3 = Trabajo_Bibliografico_Entrega_2.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Trabajo_Bibliografico_Entrega_1.bbl' found.
+Package biblatex Info: ... file 'Trabajo_Bibliografico_Entrega_2.bbl' found.
 
-(./Trabajo_Bibliografico_Entrega_1.bbl)
+(./Trabajo_Bibliografico_Entrega_2.bbl)
 Package biblatex Info: Reference section=0 on input line 23.
 Package biblatex Info: Reference segment=0 on input line 23.
 \AtBeginShipoutBox=\box47
@@ -950,10 +939,10 @@ LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
 
-(./Trabajo_Bibliografico_Entrega_1.out) (./Trabajo_Bibliografico_Entrega_1.out)
+(./Trabajo_Bibliografico_Entrega_2.out) (./Trabajo_Bibliografico_Entrega_2.out)
 \@outlinefile=\write4
 
-\openout4 = Trabajo_Bibliografico_Entrega_1.out
+\openout4 = Trabajo_Bibliografico_Entrega_2.out
 LaTeX Info: Redefining \rmfamily on input line 23.
 LaTeX Info: Redefining \sffamily on input line 23.
 LaTeX Info: Redefining \ttfamily on input line 23.
@@ -962,21 +951,21 @@ uage esp
 
 Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
 
-<LogoUC_COLOR_.jpg, id=12, 1003.75pt x 1340.00626pt>
+<LogoUC_COLOR_.jpg, id=8, 1003.75pt x 1340.00626pt>
 File: LogoUC_COLOR_.jpg Graphic file (type jpg)
 <use LogoUC_COLOR_.jpg>
 Package luatex.def Info: LogoUC_COLOR_.jpg  used on input line 27.
 (luatex.def)             Requested size: 65.44142pt x 87.34882pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 55.
+(Font)              <12> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <6> on input line 56.
 [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./LogoUC_COLOR_.j
-pg>] (./Trabajo_Bibliografico_Entrega_1.toc
+pg>] (./Trabajo_Bibliografico_Entrega_2.toc
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
@@ -988,15 +977,10 @@ Package polyglossia Warning: totalhyphenmin:'5' on input line 3.
 )
 \tf@toc=\write5
 
-\openout5 = Trabajo_Bibliografico_Entrega_1.toc
+\openout5 = Trabajo_Bibliografico_Entrega_2.toc
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1] [2]
-
-Package biblatex Warning: Package option 'sortcites' enabled.
-(biblatex)                Verify postnote placement on input line 91.
-
-[3]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1032,10 +1016,10 @@ braces):
 >  {spanish/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/totalhyphenmin}  =>  {5}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
- (./Trabajo_Bibliografico_Entrega_1.aux
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+ (./Trabajo_Bibliografico_Entrega_2.aux
 LaTeX Info: Redefining \rmfamily on input line 23.
 LaTeX Info: Redefining \sffamily on input line 23.
 LaTeX Info: Redefining \ttfamily on input line 23.
@@ -1045,34 +1029,33 @@ uage esp
 Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
 
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
-Package rerunfilecheck Info: File `Trabajo_Bibliografico_Entrega_1.out' has not 
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package rerunfilecheck Info: File `Trabajo_Bibliografico_Entrega_2.out' has not 
 changed.
-(rerunfilecheck)             Checksum: 6ED1BFFEF944543EDBD543352F1B8FB3;189.
-Package logreq Info: Writing requests to 'Trabajo_Bibliografico_Entrega_1.run.xm
+(rerunfilecheck)             Checksum: E62C6D918433D5AAD12CD53CDEFE43A7;106.
+Package logreq Info: Writing requests to 'Trabajo_Bibliografico_Entrega_2.run.xm
 l'.
 
-\openout1 = Trabajo_Bibliografico_Entrega_1.run.xml
+\openout1 = Trabajo_Bibliografico_Entrega_2.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 21689 strings out of 481289
+ 21595 strings out of 481289
  125171,1373583 words of node,token memory allocated
- 486 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 62 glue_spec,
- 5 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 1:1,2:493,3:206,4:21,5:67,6:15,7:3154,8:91,9:60,10:14,11:425,12:
-3
- 38326 multiletter control sequences out of 65536+600000
- 54 fonts using 12436183 bytes
- 56i,6n,81p,2277b,2746s stack positions out of 5000i,500n,10000p,200000b,200000s
-<c:/Windows/Fonts/timesi.ttf><c:/Windows/Fonts/timesbd.ttf><c:/Windows/Fonts/tim
-es.ttf>
-Output written on Trabajo_Bibliografico_Entrega_1.pdf (5 pages, 393287 bytes).
+ 471 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 61 glue_spec,
+ 4 attribute_list, 1 write nodes
+   avail lists: 1:1,2:228,3:85,4:14,5:55,6:13,7:3284,8:72,9:60,10:12,11:436
+ 38240 multiletter control sequences out of 65536+600000
+ 54 fonts using 12003191 bytes
+ 55i,6n,81p,849b,2746s stack positions out of 5000i,500n,10000p,200000b,200000s
+<c:/Windows/Fonts/ariali.ttf><c:/Windows/Fonts/arialbd.ttf><c:/Windows/Fonts/ari
+al.ttf>
+Output written on Trabajo_Bibliografico_Entrega_2.pdf (4 pages, 361869 bytes).
 
-PDF statistics: 94 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 131072)
- 17 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 131072)
+ 9 words of extra memory for PDF output out of 10000 (max. 100000000)
 
