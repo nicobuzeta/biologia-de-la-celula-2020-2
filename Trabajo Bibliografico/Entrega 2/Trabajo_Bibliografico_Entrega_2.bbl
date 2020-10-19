@@ -67,23 +67,866 @@
       \field{year}{2010}
       \field{dateera}{ce}
     \endentry
-    \entry{MachineLearningCambridge}{online}{}
+    \entry{carletonAdvancesComputationalMolecular2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c7cbb33059cd59d69d36cd497ea68884}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edb8f4318a8edc750cc3b124062cb40b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16824ad24dd47afdeba94b4dc7f268bd}{%
+           family={Madabhushi},
+           familyi={M\bibinitperiod},
+           given={Anant},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d9e08215f67091600e15d3e91e5c7b2}{%
+           family={Veltri},
+           familyi={V\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{483d91f7b9d6489e8266eee7e2237bb1}
+      \strng{fullhash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{bibnamehash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{authorbibnamehash}{7f4bc69b0297224e9752be499e8310a6}
+      \strng{authornamehash}{483d91f7b9d6489e8266eee7e2237bb1}
+      \strng{authorfullhash}{7f4bc69b0297224e9752be499e8310a6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nuclear alterations are a hallmark of many types of cancers, including prostate cancer (PCa). Recent evidence shows that subvisual changes, ones that may not be visually perceptible to a pathologist, to the nucleus and its ultrastructural components can precede visual histopathological recognition of cancer. Alterations to nuclear features such as nuclear size and shape, texture, and spatial architecture reflect the complex molecular level changes that occur during oncogenesis. Quantitative nuclear morphometry, a field that uses computational approaches to identify and quantify malignancy-induced nuclear changes, can enable a detailed and objective analysis of the prostate cancer cell nucleus. Recent advances in machine learning-based approaches can now automatically mine data related to these changes to aid in diagnostic decision-making and prediction of PCa prognoses. In this review, we use prostate cancer as a case study to connect the molecular level mechanisms that underlie these nuclear changes to the machine learning computational approaches, bridging the gap between the clinical and computational understanding of PCa. First, we discuss recent developments to our understanding of molecular events that drive nuclear alterations in the context of prostate cancer: the role of the nuclear matrix and lamina in size and shape changes, the role of three-dimensional chromatin organization and epigenetic modifications in textural changes, and role the tumor microenvironment in altering nuclear spatial topology. We then discuss the advances in the applications of machine learning algorithms to automatically segment nuclei in prostate histopathological images, extract nuclear features to aid in diagnostic decision-making, and predict potential outcomes such as biochemical recurrence and survival. Lastly, we discuss the challenges and opportunities associated with translation of the quantitative nuclear morphometry methodology into the clinical space. Ultimately, accurate identification and quantification of nuclear alterations can contribute to the field of nucleomics and has applications for computationally driven precision oncologic patient care.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0730-2312}
+      \field{journaltitle}{Journal of cellular biochemistry}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{J Cell Biochem}
+      \field{title}{Advances in the {{Computational}} and {{Molecular Understanding}} of the {{Prostate Cancer Cell Nucleus}}}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{119}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{7127\bibrangedash 7142}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/jcb.27156
+      \endverb
+      \verb{eprint}
+      \verb 29923622
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/UNNM8ZMK/Carleton et al. - 2018 - Advances in the Computational and Molecular Unders.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150831/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150831/
+      \endverb
+    \endentry
+    \entry{CommonCancerTypes2015b}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{abstract}{List of common cancer types, or cancers that are diagnosed with the greatest frequency in the United States; provides most recent incidence and mortality statistics for these cancers.}
+      \field{langid}{english}
+      \field{title}{Common {{Cancer Types}} - {{National Cancer Institute}}}
+      \field{type}{cgvArticle}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{year}{04/21/2015 - 08:00}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/RC9A5ITW/common-cancers.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cancer.gov/types/common-cancers
+      \endverb
+      \verb{url}
+      \verb https://www.cancer.gov/types/common-cancers
+      \endverb
+    \endentry
+    \entry{deyCancerNucleusMorphology2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2517d1d764610e72f53cb9ca28ec5b24}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Pranab},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \strng{fullhash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \strng{bibnamehash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \strng{authorbibnamehash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \strng{authornamehash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \strng{authorfullhash}{2517d1d764610e72f53cb9ca28ec5b24}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{There are many significant morphological alterations of a nucleus of cancer cell that are detectable by light microscopy on routine staining. These changes are often associated with deranged cellular functions of cancer cell. It is difficult to understand the exact relationship between nuclear morphology and alteration of nuclear structural organization in cancer. Herein, the salient visual and subvisual morphological changes of cancer nuclei and their possible etiology and significance have been reviewed. Diagn. Cytopathol. 2010. © 2009 Wiley-Liss, Inc.}
+      \field{annotation}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/dc.21234}
+      \field{issn}{1097-0339}
+      \field{journaltitle}{Diagnostic Cytopathology}
+      \field{langid}{english}
+      \field{number}{5}
+      \field{shorttitle}{Cancer Nucleus}
+      \field{title}{Cancer Nucleus: {{Morphology}} and Beyond}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{382\bibrangedash 390}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1002/dc.21234
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/K37TN78T/Dey - 2010 - Cancer nucleus Morphology and beyond.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dc.21234
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dc.21234
+      \endverb
+      \keyw{cancer,morphology,nucleus}
+    \endentry
+    \entry{kancherlaEarlyLungCancer2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7efa58ed94477a815040726fd24d2dd1}{%
+           family={Kancherla},
+           familyi={K\bibinitperiod},
+           given={Kesav},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cc6986419906f14a29a3b1df52fb012}{%
+           family={Mukkamala},
+           familyi={M\bibinitperiod},
+           given={Srinivas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{548219d7525bac909e707d0911b93e86}
+      \strng{fullhash}{548219d7525bac909e707d0911b93e86}
+      \strng{bibnamehash}{548219d7525bac909e707d0911b93e86}
+      \strng{authorbibnamehash}{548219d7525bac909e707d0911b93e86}
+      \strng{authornamehash}{548219d7525bac909e707d0911b93e86}
+      \strng{authorfullhash}{548219d7525bac909e707d0911b93e86}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study we propose an early lung cancer detection methodology using nucleus based features. First the sputum samples from patients are labeled with Tetrakis Carboxy Phenyl Porphine (TCPP) and fluorescent images of these samples are taken. TCPP is a porphyrin that is able to assist in labeling lung cancer cells by increasing numbers of low density lipoproteins coating on the surface of cancer. We study the performance of well know machine learning techniques in the context of lung cancer detection on Biomoda dataset. We obtained an accuracy of 81\% using 71 features related to shape, intensity and color in our previous work. By adding the nucleus segmented features we improved the accuracy to 87\%. Nucleus segmentation is performed by using Seeded region growing segmentation method. Our results demonstrate the potential of nucleus segmented features for detecting lung cancer.}
+      \field{booktitle}{2013 {{IEEE Symposium}} on {{Computational Intelligence}} in {{Bioinformatics}} and {{Computational Biology}} ({{CIBCB}})}
+      \field{eventtitle}{2013 {{IEEE Symposium}} on {{Computational Intelligence}} in {{Bioinformatics}} and {{Computational Biology}} ({{CIBCB}})}
+      \field{month}{4}
+      \field{title}{Early Lung Cancer Detection Using Nucleus Segementation Based Features}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{91\bibrangedash 95}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/CIBCB.2013.6595393
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/D7IHQCN3/Kancherla and Mukkamala - 2013 - Early lung cancer detection using nucleus segement.pdf;/home/nicobuzeta/rclone/Zotero/storage/DAETGIAM/6595393.html
+      \endverb
+      \keyw{Accuracy,Bioinformatics,biology computing,Biomoda dataset,cancer,Cancer,Cancer detection,color feature,early lung cancer detection,feature extraction,Feature extraction,fluorescent image,image colour analysis,image segmentation,intensity feature,learning (artificial intelligence),Lung Cancer detection,Lungs,Machine Learning,machine learning technique,nucleus segmentation based feature,object detection,Seeded Region Growing segmentation,seeded region growing segmentation method,Shape,shape feature,TCPP image,Tetrakis Carboxy Phenyl Porphine image}
+    \endentry
+    \entry{kourouMachineLearningApplications2015}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6ba1e26965518203d961556e96eafee1}{%
+           family={Kourou},
+           familyi={K\bibinitperiod},
+           given={Konstantina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8edc2843307ee0805cb2f516acf47ea}{%
+           family={Exarchos},
+           familyi={E\bibinitperiod},
+           given={Themis\bibnamedelima P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=035c8bc05672fef3953eb78e900ac659}{%
+           family={Exarchos},
+           familyi={E\bibinitperiod},
+           given={Konstantinos\bibnamedelima P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=445f33cd64985e305867248c9a245072}{%
+           family={Karamouzis},
+           familyi={K\bibinitperiod},
+           given={Michalis\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c71e2e9256f9b3f845f5eefc9e8815af}{%
+           family={Fotiadis},
+           familyi={F\bibinitperiod},
+           given={Dimitrios\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6bc5f9967a8390b403476d4ffa6bc05}
+      \strng{fullhash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{bibnamehash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{authorbibnamehash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \strng{authornamehash}{b6bc5f9967a8390b403476d4ffa6bc05}
+      \strng{authorfullhash}{bcd6b1e6f2869c6649a1df61bf815969}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancer has been characterized as a heterogeneous disease consisting of many different subtypes. The early diagnosis and prognosis of a cancer type have become a necessity in cancer research, as it can facilitate the subsequent clinical management of patients. The importance of classifying cancer patients into high or low risk groups has led many research teams, from the biomedical and the bioinformatics field, to study the application of machine learning (ML) methods. Therefore, these techniques have been utilized as an aim to model the progression and treatment of cancerous conditions. In addition, the ability of ML tools to detect key features from complex datasets reveals their importance. A variety of these techniques, including Artificial Neural Networks (ANNs), Bayesian Networks (BNs), Support Vector Machines (SVMs) and Decision Trees (DTs) have been widely applied in cancer research for the development of predictive models, resulting in effective and accurate decision making. Even though it is evident that the use of ML methods can improve our understanding of cancer progression, an appropriate level of validation is needed in order for these methods to be considered in the everyday clinical practice. In this work, we present a review of recent ML approaches employed in the modeling of cancer progression. The predictive models discussed here are based on various supervised ML techniques as well as on different input features and data samples. Given the growing trend on the application of ML methods in cancer research, we present here the most recent publications that employ these techniques as an aim to model cancer risk or patient outcomes.}
+      \field{day}{1}
+      \field{issn}{2001-0370}
+      \field{journaltitle}{Computational and Structural Biotechnology Journal}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Computational and Structural Biotechnology Journal}
+      \field{title}{Machine Learning Applications in Cancer Prognosis and Prediction}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{13}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{8\bibrangedash 17}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.csbj.2014.11.005
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/76K7DVBH/Kourou et al. - 2015 - Machine learning applications in cancer prognosis .pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S2001037014000464
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2001037014000464
+      \endverb
+      \keyw{Cancer recurrence,Cancer survival,Cancer susceptibility,Machine learning,Predictive models}
+    \endentry
+    \entry{lukasovaTopographyGeneticLoci2004}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=74567efaf6105f023e34f9d6404db08f}{%
+           family={Lukásová},
+           familyi={L\bibinitperiod},
+           given={Emilie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc9a04af9d33780736ef7fea3eefd0a2}{%
+           family={Kozubek},
+           familyi={K\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c94c413102e8849c3677abc884157b6b}{%
+           family={Falk},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d9e0ebed2cb829b8fc42acccc102cbf}{%
+           family={Kozubek},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc53d9fba724a01e23aab9d0fe86071a}{%
+           family={Zaloudík},
+           familyi={Z\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26d64f77224bfeec99c32190f6f16c48}{%
+           family={Vagunda},
+           familyi={V\bibinitperiod},
+           given={Václav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=368b0ac9f03cbc37c8dd36fca0341d6b}{%
+           family={Pavlovský},
+           familyi={P\bibinitperiod},
+           given={Zdenek},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ab89493d115f6748f6eab3af34753948}
+      \strng{fullhash}{04db061da5a72bc4ea47e270314fc97d}
+      \strng{bibnamehash}{04db061da5a72bc4ea47e270314fc97d}
+      \strng{authorbibnamehash}{04db061da5a72bc4ea47e270314fc97d}
+      \strng{authornamehash}{ab89493d115f6748f6eab3af34753948}
+      \strng{authorfullhash}{04db061da5a72bc4ea47e270314fc97d}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To determine the influence of increased gene expression and amplification in colorectal carcinoma on chromatin structure, the nuclear distances between pairs of bacterial artificial chromosome (BAC) clones with genomic separation from 800 to 29,000 kb were measured and compared between the tumor and parallel epithelial cells of six patients. The nuclear distances were measured between the loci in chromosomal bands 7p22.3-7p21.3; 7q35-7q36.3; 11p15.5-11p15.4; 20p13; 20p12.2; 20q11.21 and 20q12 where increased expression had been found in all types of colorectal carcinoma. The loci were visualized by three-dimensional fluorescence in situ hybridization using 22 BAC clones. Our results show that for short genomic separations, mean nuclear distance increases linearly with increased genomic separation. The results for some pairs of loci fell outside this linear slope, indicating the existence of different levels of chromatin folding. For the same genomic separations the nuclear distances were frequently shorter for tumor as compared with epithelial cells. Above the initial growing phase of the nuclear distances, a plateau phase was observed in both cell types where the increase in genomic separation was not accompanied by an increase in nuclear distance. The ratio of the mean nuclear distances between the corresponding loci in tumor and epithelium cells decreases with increasing amplification of loci. Our results further show that the large-scale chromatin folding might differ for specific regions of chromosomes and that it is basically preserved in tumor cells in spite of the amplification of many loci.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0009-5915}
+      \field{journaltitle}{Chromosoma}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{5}
+      \field{shortjournal}{Chromosoma}
+      \field{title}{Topography of Genetic Loci in the Nuclei of Cells of Colorectal Carcinoma and Adjacent Tissue of Colonic Epithelium}
+      \field{volume}{112}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{221\bibrangedash 230}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00412-003-0263-3
+      \endverb
+      \verb{eprint}
+      \verb 14722711
+      \endverb
+      \keyw{Adult,Aged,Cell Nucleus,Chromatin,Chromosome Banding,Chromosomes; Human,Colorectal Neoplasms,DNA Probes,DNA; Neoplasm,Epithelial Cells,Female,Gene Amplification,Humans,In Situ Hybridization; Fluorescence,Male,Middle Aged}
+    \endentry
+    \entry{madrazoCellIntegrinsNew2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e733b26b5f54b1d016e3457988b44021}{%
+           family={Madrazo},
+           familyi={M\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db78f896dcbe1cd86ed833d97581e654}{%
+           family={Conde},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima Cordero},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f3bd901a4f2bde525a3a4884777984}{%
+           family={Redondo-Muñoz},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95e91b36922dc57016721e3e9c83405a}
+      \strng{fullhash}{592820a6ff63c1a16ae7ec81e3ee1fac}
+      \strng{bibnamehash}{592820a6ff63c1a16ae7ec81e3ee1fac}
+      \strng{authorbibnamehash}{592820a6ff63c1a16ae7ec81e3ee1fac}
+      \strng{authornamehash}{95e91b36922dc57016721e3e9c83405a}
+      \strng{authorfullhash}{592820a6ff63c1a16ae7ec81e3ee1fac}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cancer cell migration is a complex process that requires coordinated structural changes and signals in multiple cellular compartments. The nucleus is the biggest and stiffest organelle of the cell and might alter its physical properties to allow cancer cell movement. Integrins are transmembrane receptors that mediate cell-cell and cell-extracellular matrix interactions, which regulate numerous intracellular signals and biological functions under physiological conditions. Moreover, integrins orchestrate changes in tumor cells and their microenvironment that lead to cancer growth, survival and invasiveness. Most of the research efforts have focused on targeting integrin-mediated adhesion and signaling. Recent exciting data suggest the crucial role of integrins in controlling internal cellular structures and nuclear alterations during cancer cell migration. Here we review the emerging role of integrins in nuclear biology. We highlight increasing evidence that integrins are critical for changes in multiple nuclear components, the positioning of the nucleus and its mechanical properties during cancer cell migration. Finally, we discuss how integrins are integral proteins linking the plasma membrane and the nucleus, and how they control cell migration to enable cancer invasion and infiltration. The functional connections between these cell receptors and the nucleus will serve to define new attractive therapeutic targets.}
+      \field{day}{6}
+      \field{eprinttype}{pmid}
+      \field{issn}{2072-6694}
+      \field{journaltitle}{Cancers}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{Cancers (Basel)}
+      \field{shorttitle}{Inside the {{Cell}}}
+      \field{title}{Inside the {{Cell}}: {{Integrins}} as {{New Governors}} of {{Nuclear Alterations}}?}
+      \field{volume}{9}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3390/cancers9070082
+      \endverb
+      \verb{eprint}
+      \verb 28684679
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/2MNZ5R2N/Madrazo et al. - 2017 - Inside the Cell Integrins as New Governors of Nuc.pdf
+      \endverb
+      \keyw{chromatin,ECM,integrins,nuclear deformability,nuclear mechanics,nucleus,tumor microenvironment}
+    \endentry
+    \entry{nickersonNuclearDreamsMalignant1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0854ee058881641f088e0271e1a6c3d7}{%
+           family={Nickerson},
+           familyi={N\bibinitperiod},
+           given={Jeffrey\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0854ee058881641f088e0271e1a6c3d7}
+      \strng{fullhash}{0854ee058881641f088e0271e1a6c3d7}
+      \strng{bibnamehash}{0854ee058881641f088e0271e1a6c3d7}
+      \strng{authorbibnamehash}{0854ee058881641f088e0271e1a6c3d7}
+      \strng{authornamehash}{0854ee058881641f088e0271e1a6c3d7}
+      \strng{authorfullhash}{0854ee058881641f088e0271e1a6c3d7}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cancer is diagnosed by examining the architectural alterations to cells and tissues. Changes in nuclear structure are among the most universal of these and include increases in nuclear size, deformities in nuclear shape, and changes in the internal organization of the nucleus. These may all reflect changes in the nuclear matrix, a non-chromatin nuclear scaffolding determining nuclear form, higher order chromatin folding, and the spatial organization of nucleic acid metabolism. Malignancy-induced changes in this structure may have profound effects on chromatin folding, on the fidelity of genome replication, and on gene expression. Elucidating the mechanisms and the biological consequences of nuclear changes will require the identification of the major structural molecules of the internal nuclear matrix and an understanding of their assembly into structural elements. If biochemical correlates to malignant alterations in nuclear structure can be identified then nuclear matrix proteins and, perhaps nuclear matrix-associated structural RNAs, may be an attractive set of diagnostic markers and therapeutic targets. J. Cell. Biochem. 70:172–180, 1998. © 1998 Wiley-Liss, Inc.}
+      \field{annotation}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/\%28SICI\%291097-4644\%2819980801\%2970\%3A2\%3C172\%3A\%3AAID-JCB3\%3E3.0.CO\%3B2-L}
+      \field{issn}{1097-4644}
+      \field{journaltitle}{Journal of Cellular Biochemistry}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shorttitle}{Nuclear Dreams}
+      \field{title}{Nuclear Dreams: {{The}} Malignant Alteration of Nuclear Architecture}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{volume}{70}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{172\bibrangedash 180}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1002/(SICI)1097-4644(19980801)70:2<172::AID-JCB3>3.0.CO;2-L
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/4T2TC3GX/Nickerson - 1998 - Nuclear dreams The malignant alteration of nuclea.pdf;/home/nicobuzeta/rclone/Zotero/storage/SXUJTTV8/(SICI)1097-4644(19980801)702172AID-JCB33.0.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-4644%2819980801%2970%3A2%3C172%3A%3AAID-JCB3%3E3.0.CO%3B2-L
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-4644%2819980801%2970%3A2%3C172%3A%3AAID-JCB3%3E3.0.CO%3B2-L
+      \endverb
+      \keyw{cancer,nuclear matrix,nuclear structure}
+    \endentry
+    \entry{rynearsonNuclearStructureOrganization2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e3a06626293c0b791507f2f408aca1c}{%
+           family={Rynearson},
+           familyi={R\bibinitperiod},
+           given={Amanda\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=812e7490a99f53783ebf96da17a4028c}{%
+           family={Sussman},
+           familyi={S\bibinitperiod},
+           given={Caroline\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{fullhash}{0910b2560ecfad643deba749e6157c85}
+      \strng{bibnamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authorbibnamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authornamehash}{0910b2560ecfad643deba749e6157c85}
+      \strng{authorfullhash}{0910b2560ecfad643deba749e6157c85}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The genetic code has received a great amount of attention from investigators, and the media since its discovery, and then again with the sequencing of the human genome in 2000. A decade later, investigators are beginning to look beyond the raw sequence to other mechanisms that affect gene expression. The main function of the nucleus is to maintain the genome and regulate gene expression. Changes in the expression of genes can drastically change the properties of the cell therefore giving the nucleus a role as the cell's "command post." In the past few years, one of the most notable discoveries in the study of the nucleus is that this organelle is not homogeneous. It is also not randomly organized; everything within the nucleus has a specific location with a specific function. Chromosome location within the nucleus relative to its center is directly related to transcription level. Additionally, there are specific regions of the nucleus where content and function differ. The various structures of the nucleus such as the membranes and matrix that supply support to the well protected chromatin offer ever increasing layers of complexity to the nucleus. Here, we focus on the nuclear matrix and its possible effects on signaling and cellular transformation leading to cancer.}
+      \field{eprinttype}{pmid}
+      \field{issn}{1941-6636}
+      \field{journaltitle}{Journal of Gastrointestinal Cancer}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{J Gastrointest Cancer}
+      \field{title}{Nuclear Structure, Organization, and Oncogenesis}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{112\bibrangedash 117}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12029-011-9253-5
+      \endverb
+      \verb{eprint}
+      \verb 21286858
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/7M26L8LR/Rynearson and Sussman - 2011 - Nuclear structure, organization, and oncogenesis.pdf
+      \endverb
+      \keyw{Cell Nucleus,Cell Transformation; Neoplastic,Chromosomes,Gene Expression Regulation,Humans}
+    \endentry
+    \entry{sirinukunwattanaLocalitySensitiveDeep2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6a05c026a83201fdebbca698eddc224f}{%
+           family={Sirinukunwattana},
+           familyi={S\bibinitperiod},
+           given={Korsuk},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a48ab1c4088ad93bc305b55b50d00946}{%
+           family={Raza},
+           familyi={R\bibinitperiod},
+           given={Shan\bibnamedelimb E\bibnamedelima Ahmed},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bccf718a80c4b4f6a565e62b29a6287}{%
+           family={Tsang},
+           familyi={T\bibinitperiod},
+           given={Yee-Wah},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8efe761fb739c6aa5c17aef4a537b296}{%
+           family={Snead},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelimb R.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56775695326e38b1410b59169dcf80f3}{%
+           family={Cree},
+           familyi={C\bibinitperiod},
+           given={Ian\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3adf5249ac917ba03ae0060f5cd8fb6}{%
+           family={Rajpoot},
+           familyi={R\bibinitperiod},
+           given={Nasir\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6ca87a676dec26f81e678564a18ac30}
+      \strng{fullhash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{bibnamehash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{authorbibnamehash}{a72c9435a1daa3fc954af1620b73e17e}
+      \strng{authornamehash}{d6ca87a676dec26f81e678564a18ac30}
+      \strng{authorfullhash}{a72c9435a1daa3fc954af1620b73e17e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detection and classification of cell nuclei in histopathology images of cancerous tissue stained with the standard hematoxylin and eosin stain is a challenging task due to cellular heterogeneity. Deep learning approaches have been shown to produce encouraging results on histopathology images in various studies. In this paper, we propose a Spatially Constrained Convolutional Neural Network (SC-CNN) to perform nucleus detection. SC-CNN regresses the likelihood of a pixel being the center of a nucleus, where high probability values are spatially constrained to locate in the vicinity of the centers of nuclei. For classification of nuclei, we propose a novel Neighboring Ensemble Predictor (NEP) coupled with CNN to more accurately predict the class label of detected cell nuclei. The proposed approaches for detection and classification do not require segmentation of nuclei. We have evaluated them on a large dataset of colorectal adenocarcinoma images, consisting of more than 20,000 annotated nuclei belonging to four different classes. Our results show that the joint detection and classification of the proposed SC-CNN and NEP produces the highest average F1 score as compared to other recently published approaches. Prospectively, the proposed methods could offer benefit to pathology practice in terms of quantitative analysis of tissue constituents in whole-slide images, and potentially lead to a better understanding of cancer.}
+      \field{eventtitle}{{{IEEE Transactions}} on {{Medical Imaging}}}
+      \field{issn}{1558-254X}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Locality {{Sensitive Deep Learning}} for {{Detection}} and {{Classification}} of {{Nuclei}} in {{Routine Colon Cancer Histology Images}}}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1196\bibrangedash 1206}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TMI.2016.2525803
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/HV3MEIY4/Sirinukunwattana et al. - 2016 - Locality Sensitive Deep Learning for Detection and.pdf
+      \endverb
+      \keyw{biological organs,biomedical optical imaging,cancer,Cancer,cancerous tissue,cell nuclei classification,cell nuclei detection,Cell Nucleus,Cell Proliferation,cellular biophysics,cellular heterogeneity,Colon,Colonic Neoplasms,colorectal adenocarcinoma images,Computer architecture,Convolutional neural network,dataset,deep learning,eosin stain,Feature extraction,high-probability values,highest average F1 score,Histocytochemistry,histology image analysis,histopathology images,Humans,image classification,Image Interpretation; Computer-Assisted,joint detection,learning (artificial intelligence),locality sensitive deep learning,Machine learning,Machine Learning,medical image processing,Microprocessors,neighboring ensemble predictor,NEP,Neural Networks (Computer),nucleus detection,probability,quantitative analysis,routine colon cancer histology images,SC-CNN,Shape,spatially constrained convolutional neural network,standard hematoxylin,tissue constituents,Tumors,tumours,whole-slide images}
+    \endentry
+    \entry{thermanStructureOriginGiant1983}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6f36b6646472e8c710fbc847272ba22c}{%
+           family={Therman},
+           familyi={T\bibinitperiod},
+           given={Eeva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73255cdb454353db4533e67b99fc340c}{%
+           family={Sarto},
+           familyi={S\bibinitperiod},
+           given={Gloria\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ca6de964b9e434ad11e7176c9395e1}{%
+           family={Buchler},
+           familyi={B\bibinitperiod},
+           given={Dolores\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91101ce13baf23a20e643ff75843ff32}
+      \strng{fullhash}{99f14c0593ddee5d438d3f74ada5b331}
+      \strng{bibnamehash}{99f14c0593ddee5d438d3f74ada5b331}
+      \strng{authorbibnamehash}{99f14c0593ddee5d438d3f74ada5b331}
+      \strng{authornamehash}{91101ce13baf23a20e643ff75843ff32}
+      \strng{authorfullhash}{99f14c0593ddee5d438d3f74ada5b331}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The structure and origin of giant nuclei in human cancer cells were studied in two cases of squamous cell carcinoma of the cervix. Feulgen-squash preparations of untreated biopsies showed the following types of nuclei: fairly evenly stained nuclei, nuclei with distinct chromocenters from which individual chromosomes sometimes seemed to radiate, and nuclei with banded structures which we tentatively interpret as some type of “polytene” chromosomes possibly showing prophase chromomeres. In neither tumor did either the small or large nuclei display any X chromatin bodies. The main processes giving rise to the different types of nuclei are endoreduplication, true endomitosis, and a kind of polytenization. The multichromosome chromocenters that fell apart possibly represent polytene chromosomes separating into individual chromosomes.}
+      \field{day}{1}
+      \field{issn}{0165-4608}
+      \field{journaltitle}{Cancer Genetics and Cytogenetics}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{1}
+      \field{shortjournal}{Cancer Genetics and Cytogenetics}
+      \field{title}{The Structure and Origin of Giant Nuclei in Human Cancer Cells}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{volume}{9}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9\bibrangedash 18}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/0165-4608(83)90019-5
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/X32DS8L3/Therman et al. - 1983 - The structure and origin of giant nuclei in human .pdf;/home/nicobuzeta/rclone/Zotero/storage/Y6HYHUYF/0165460883900195.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/0165460883900195
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0165460883900195
+      \endverb
+    \endentry
+    \entry{UrineCytologyMayo}{online}{}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{machine learning definition: 1. the process of computers changing the way they carry out tasks by learning from new data…. Learn more.}
-      \field{langid}{english}
-      \field{title}{Machine {{Learning}} | {{Cambridge English Dictionary}}}
+      \field{title}{Urine Cytology - {{Mayo Clinic}}}
       \field{urlday}{6}
       \field{urlmonth}{9}
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://dictionary.cambridge.org/dictionary/english/machine-learning
+      \verb https://www.mayoclinic.org/tests-procedures/urine-cytology/about/pac-20385279
       \endverb
       \verb{url}
-      \verb https://dictionary.cambridge.org/dictionary/english/machine-learning
+      \verb https://www.mayoclinic.org/tests-procedures/urine-cytology/about/pac-20385279
+      \endverb
+    \endentry
+    \entry{wangPredictionRecurrenceEarly2017}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=626b2825b1f3a08b8d17649a85f8f1b7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiangxue},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84ecaf0f35bcc31a4cf0a27f52d22229}{%
+           family={Janowczyk},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86bc8365ba527136464afb5496c8c143}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22a03f6fce542ee94ae93528ce037f45}{%
+           family={Thawani},
+           familyi={T\bibinitperiod},
+           given={Rajat},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f6721fe354bc4786fdcf9c7abd392ff}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Pingfu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64c1287aaa904f8ab5e6fa00876e9b17}{%
+           family={Schalper},
+           familyi={S\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d712659f2704186a3ba70196efc5728}{%
+           family={Velcheti},
+           familyi={V\bibinitperiod},
+           given={Vamsidhar},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16824ad24dd47afdeba94b4dc7f268bd}{%
+           family={Madabhushi},
+           familyi={M\bibinitperiod},
+           given={Anant},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d5e128e896610720cff35d598194cee0}
+      \strng{fullhash}{01b84bd6413890cd35dd506fb7104596}
+      \strng{bibnamehash}{01b84bd6413890cd35dd506fb7104596}
+      \strng{authorbibnamehash}{01b84bd6413890cd35dd506fb7104596}
+      \strng{authornamehash}{d5e128e896610720cff35d598194cee0}
+      \strng{authorfullhash}{01b84bd6413890cd35dd506fb7104596}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Identification of patients with early stage non-small cell lung cancer (NSCLC) with high risk of recurrence could help identify patients who would receive additional benefit from adjuvant therapy. In this work, we present a computational histomorphometric image classifier using nuclear orientation, texture, shape, and tumor architecture to predict disease recurrence in early stage NSCLC from digitized H\&E tissue microarray (TMA) slides. Using a retrospective cohort of early stage NSCLC patients (Cohort \#1, n\,=\,70), we constructed a supervised classification model involving the most predictive features associated with disease recurrence. This model was then validated on two independent sets of early stage NSCLC patients, Cohort \#2 (n\,=\,119) and Cohort \#3 (n\,=\,116). The model yielded an accuracy of 81\% for prediction of recurrence in the training Cohort \#1, 82\% and 75\% in the validation Cohorts \#2 and \#3 respectively. A multivariable Cox proportional hazard model of Cohort \#2, incorporating gender and traditional prognostic variables such as nodal status and stage indicated that the computer extracted histomorphometric score was an independent prognostic factor (hazard ratio\,=\,20.81, 95\%~CI: 6.42–67.52, P\,{$<$}\,0.001).}
+      \field{day}{19}
+      \field{issn}{2045-2322}
+      \field{issue}{1}
+      \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{Prediction of Recurrence in Early Stage Non-Small Cell Lung Cancer Using Computer Extracted Nuclear Features from Digital {{H}}\&{{E}} Images}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{volume}{7}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13543}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-017-13773-7
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/6LK77QV5/Wang et al. - 2017 - Prediction of recurrence in early stage non-small .pdf;/home/nicobuzeta/rclone/Zotero/storage/NS32FLSA/s41598-017-13773-7.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-017-13773-7
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-017-13773-7
+      \endverb
+    \endentry
+    \entry{WHOEarlyDetection}{online}{}
+      \list{publisher}{1}{%
+        {World Health Organization}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There are two major components of early detection of cancer: education to promote early diagnosis and screening.}
+      \field{journaltitle}{WHO}
+      \field{title}{{{WHO}} | {{Early}} Detection of Cancer}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/C7A4X7LM/en.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.who.int/cancer/detection/en/
+      \endverb
+      \verb{url}
+      \verb http://www.who.int/cancer/detection/en/
+      \endverb
+    \endentry
+    \entry{zinkNuclearStructureCancer2004}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=52b4b62c7bd3d5eefa3f3f4beeb7eadf}{%
+           family={Zink},
+           familyi={Z\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bbe9dc77c163a288bbff051e72408e0}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Andrew\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0854ee058881641f088e0271e1a6c3d7}{%
+           family={Nickerson},
+           familyi={N\bibinitperiod},
+           given={Jeffrey\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{f40a4e9be02d193a3011c2e1e1840e8e}
+      \strng{fullhash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{bibnamehash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{authorbibnamehash}{6f476d3afa468b3f07af470aa2827479}
+      \strng{authornamehash}{f40a4e9be02d193a3011c2e1e1840e8e}
+      \strng{authorfullhash}{6f476d3afa468b3f07af470aa2827479}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The architecture of cell nuclei is often altered in cancer cells. Specific tumour types are associated with characteristic alterations, and these provide an important diagnostic feature.The nuclear matrix participates in the spatial organization of the genome and other nuclear components. The protein composition of the nuclear matrix is altered in tumour cells and these changes might be useful tumour markers.Characteristic changes of nuclear shape and of chromatin texture can be induced in normal cells in vitro by oncogene activation. In vitro models will help to unravel the mechanisms by which oncogenes induce these tumour-specific nuclear changes and how these changes affect gene regulation.Chromosome territories and gene loci display characteristic spatial arrangements in cell nuclei, and these have an important role in the generation of diagnostically significant translocations associated with human malignancies.Structural alterations in tumour cells also include changes in nucleoli and the appearance of the perinucleolar compartment. These might be useful diagnostic markers in combination with automated imaging and image analysis.The promyelocytic leukaemia (PML) protein, an essential component of PML bodies, is mislocalized in leukaemic cells of patients with acute promyelocytic leukaemia, leading to the disruption of PML bodies. Treatment with anticancer drugs leads to the reassembly of PML bodies and a reversion of the malignant phenotype.High-throughput nuclear-structure-based assays to screen drugs for their ability to revert malignancy-associated nuclear changes might identify new therapeutics.}
+      \field{issn}{1474-1768}
+      \field{issue}{9}
+      \field{journaltitle}{Nature Reviews Cancer}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Nuclear Structure in Cancer Cells}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
+      \field{volume}{4}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{677\bibrangedash 687}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/nrc1430
+      \endverb
+      \verb{file}
+      \verb /home/nicobuzeta/rclone/Zotero/storage/8RUNSS6D/Zink et al. - 2004 - Nuclear structure in cancer cells.pdf;/home/nicobuzeta/rclone/Zotero/storage/PWFMABEV/nrc1430.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nrc1430
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nrc1430
       \endverb
     \endentry
   \enddatalist

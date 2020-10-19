@@ -1,62 +1,46 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.20)  17 OCT 2020 17:06
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.10.3)  18 OCT 2020 23:12
  restricted system commands enabled.
 **Trabajo_Bibliografico_Entrega_2.tex
 (./Trabajo_Bibliografico_Entrega_2.tex
-LaTeX2e <2020-02-02> patch level 5
-Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
-Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
+LaTeX2e <2020-02-02> patch level 2
+Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
+Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
 n
-Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
+Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
 ollection.
-Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
+Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
 ig file reader
-luaotfload | conf : Root cache directory is "/home/nicobuzeta/.texlive/texmf-var
-/luatex-cache/generic-dev/names".
-luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
-olved path "/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2020-05-06.lu
-a".
-Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
-Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
-cript
-Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
-ers
+luaotfload | conf : Root cache directory is /home/nicobuzeta/.texlive2019/texmf-
+var/luatex-cache/generic-dev/names.
+luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2020-01-26.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
+Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
 andling
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
+Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
 lpers
-Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 3
-Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
+Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
 s
-luaotfload | conf : Root cache directory is "/home/nicobuzeta/.texlive/texmf-var
-/luatex-cache/generic-dev/names".
-Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
-Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
-se
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
-Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
-.
-Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
-Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
-Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
-Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
+luaotfload | conf : Root cache directory is /home/nicobuzeta/.texlive2019/texmf-
+var/luatex-cache/generic-dev/names.
+Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
 y functions
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
@@ -69,16 +53,21 @@ t_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
+Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
+ers
+Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-06-03>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+. L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/nicobuzeta/.texlive/texm
-f-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
+luaotfload | db : Font names database loaded from /home/nicobuzeta/.texlive2019/
+texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \c@part=\count163
 \c@section=\count164
 \c@subsection=\count165
@@ -91,18 +80,26 @@ f-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
+.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
 \Gm@cnth=\count171
 \Gm@cntv=\count172
@@ -115,52 +112,50 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutheight=\dimen140
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
-\Gm@dimlist=\toks16
+\Gm@dimlist=\toks15
 )
-(/usr/share/texmf-dist/tex/latex/polyglossia/polyglossia.sty
-Package: polyglossia 2020/04/08 v1.49 Modern multilingual typesetting with XeLaT
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2020/01/29 v1.47 Modern multilingual typesetting with XeLaT
 eX and LuaLaTeX
 
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count174
 )
-(/usr/share/texmf-dist/tex/latex/makecmds/makecmds.sty
+(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty
 Package: makecmds 2009/09/03 v1.0a extra command making commands
 )
-(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks17
-\XKV@tempa@toks=\toks18
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 )
 \XKV@depth=\count175
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-06-03 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
 
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count176
 \l__pdf_internal_box=\box45
 ))
-Package: xparse 2020-05-15 L3 Experimental document command parser
-
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+Package: xparse 2020-02-14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count177
 \g__xparse_grabber_int=\count178
 \l__xparse_m_args_int=\count179
 \l__xparse_v_nesting_int=\count180
-))
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+)
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2020/02/03 2.7h Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count181
 \l__fontspec_language_int=\count182
@@ -177,26 +172,26 @@ X
 \l__fontspec_tmpb_dim=\dimen144
 \l__fontspec_tmpc_dim=\dimen145
 
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
 )
-(/usr/share/texmf-dist/tex/latex/filehook/filehook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2020/02/03 v0.7 Hooks for input files
 )
-(/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 
-(/usr/share/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \@catcodetablestackcnt=\count192
 )
@@ -204,7 +199,7 @@ Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \CatcodeTableExpl=\catcodetable6
 )
 Lua module: polyglossia 2013/05/11 1.3 Polyglossia
-(/usr/share/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
 File: gloss-latex.ldf polyglossia: module for default language
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -226,8 +221,9 @@ braces):
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 )
 Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Option: localmarks.
 )
-(/usr/share/texmf-dist/tex/latex/polyglossia/gloss-spanish.ldf
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-spanish.ldf
 File: gloss-spanish.ldf polyglossia: module for spanish
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -265,12 +261,12 @@ braces):
 >  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
-(polyglossia)            hyphenation	
-(polyglossia)            synonyms	espanol
 (polyglossia)            loader	loadhyph-es.tex
-(polyglossia)            righthyphenmin	2
+(polyglossia)            synonyms	espanol
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-es.pat.txt
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            patterns	hyph-es.pat.txt on input line 13
+(polyglossia)            righthyphenmin	2 on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -278,27 +274,27 @@ Package polyglossia Info: Option: Spanish, spanishoperators=none.
 )
 Package polyglossia Info: Default language is spanish.
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 105.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/luatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
-(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
 \csq@reset=\count193
 \csq@gtype=\count194
@@ -306,197 +302,148 @@ Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
 \csq@qlevel=\count196
 \csq@maxlvl=\count197
 \csq@tshold=\count198
-\csq@ltx@everypar=\toks19
+\csq@ltx@everypar=\toks18
 
-(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(/usr/share/texmf-dist/tex/latex/preprint/fullpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count267
+\c@subtable=\count268
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip49
 )
-luaotfload | cache : Lookup cache loaded from /home/nicobuzeta/.texlive/texmf-va
-r/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
-luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: "Font uarial 
-not found.".
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
+luaotfload | cache : Lookup cache loaded from /home/nicobuzeta/.texlive2019/texm
+f-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 29 (nil) defines no feature for script latn
+luaotfload | aux : font no 29 (nil) defines no feature for script dflt
 
-! Package fontspec Error: The font "uarial" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.19 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | aux : no font with id 0
-luaotfload | aux : no font with id 0
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "uarial/BI" (it probably doesn't
-(fontspec)             exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "uarial/B" (it probably doesn't
-(fontspec)             exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "uarial/I" (it probably doesn't
-(fontspec)             exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-! Package fontspec Error: The font "uarial" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.19 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-! Package fontspec Error: The font "uarial" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.19 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-Package fontspec Info: Font family 'uarial(0)' created for font 'uarial' with
+Package fontspec Info: Font family 'arial(0)' created for font 'arial' with
 (fontspec)             options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"uarial:mode=node;language=dflt;+tlig;"
+(fontspec)             <->"arial:mode=node;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"arial/B:mode=node;language=dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"arial/I:mode=node;language=dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"arial/BI:mode=node;language=dflt;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/m/n/12=uarial:mode=node;language=dflt;+tlig; at 12pt not lo
-adable: metric data not found or bad.
-<to be read again> 
-relax 
-l.19 
-   
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(/usr/share/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
 
 
-(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks20
+\pdftexcmds@toks=\toks19
 )
-(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count199
+\lrq@indent=\count269
 
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count266
-\c@listtotal=\count267
-\c@listcount=\count268
-\c@liststart=\count269
-\c@liststop=\count270
-\c@citecount=\count271
-\c@citetotal=\count272
-\c@multicitecount=\count273
-\c@multicitetotal=\count274
-\c@instcount=\count275
-\c@maxnames=\count276
-\c@minnames=\count277
-\c@maxitems=\count278
-\c@minitems=\count279
-\c@citecounter=\count280
-\c@maxcitecounter=\count281
-\c@savedcitecounter=\count282
-\c@uniquelist=\count283
-\c@uniquename=\count284
-\c@refsection=\count285
-\c@refsegment=\count286
-\c@maxextratitle=\count287
-\c@maxextratitleyear=\count288
-\c@maxextraname=\count289
-\c@maxextradate=\count290
-\c@maxextraalpha=\count291
-\c@abbrvpenalty=\count292
-\c@highnamepenalty=\count293
-\c@lownamepenalty=\count294
-\c@maxparens=\count295
-\c@parenlevel=\count296
-\blx@tempcnta=\count297
-\blx@tempcntb=\count298
-\blx@tempcntc=\count299
-\blx@maxsection=\count300
-\blx@maxsegment@0=\count301
-\blx@notetype=\count302
-\blx@parenlevel@text=\count303
-\blx@parenlevel@foot=\count304
-\blx@sectionciteorder@0=\count305
-\blx@entrysetcounter=\count306
+\c@tabx@nest=\count270
+\c@listtotal=\count271
+\c@listcount=\count272
+\c@liststart=\count273
+\c@liststop=\count274
+\c@citecount=\count275
+\c@citetotal=\count276
+\c@multicitecount=\count277
+\c@multicitetotal=\count278
+\c@instcount=\count279
+\c@maxnames=\count280
+\c@minnames=\count281
+\c@maxitems=\count282
+\c@minitems=\count283
+\c@citecounter=\count284
+\c@maxcitecounter=\count285
+\c@savedcitecounter=\count286
+\c@uniquelist=\count287
+\c@uniquename=\count288
+\c@refsection=\count289
+\c@refsegment=\count290
+\c@maxextratitle=\count291
+\c@maxextratitleyear=\count292
+\c@maxextraname=\count293
+\c@maxextradate=\count294
+\c@maxextraalpha=\count295
+\c@abbrvpenalty=\count296
+\c@highnamepenalty=\count297
+\c@lownamepenalty=\count298
+\c@maxparens=\count299
+\c@parenlevel=\count300
+\blx@tempcnta=\count301
+\blx@tempcntb=\count302
+\blx@tempcntc=\count303
+\blx@maxsection=\count304
+\blx@maxsegment@0=\count305
+\blx@notetype=\count306
+\blx@parenlevel@text=\count307
+\blx@parenlevel@foot=\count308
+\blx@sectionciteorder@0=\count309
+\blx@entrysetcounter=\count310
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -508,103 +455,103 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language3
-\c@mincomprange=\count307
-\c@maxcomprange=\count308
-\c@mincompwidth=\count309
+\c@mincomprange=\count311
+\c@maxcomprange=\count312
+\c@mincompwidth=\count313
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.dbx
-File: apa.dbx 2020/05/30 v9.13 APA biblatex style data model
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2020/02/01 v9.5 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count310
-\c@savedafterword=\count311
-\c@annotator=\count312
-\c@savedannotator=\count313
-\c@author=\count314
-\c@savedauthor=\count315
-\c@bookauthor=\count316
-\c@savedbookauthor=\count317
-\c@commentator=\count318
-\c@savedcommentator=\count319
-\c@editor=\count320
-\c@savededitor=\count321
-\c@editora=\count322
-\c@savededitora=\count323
-\c@editorb=\count324
-\c@savededitorb=\count325
-\c@editorc=\count326
-\c@savededitorc=\count327
-\c@foreword=\count328
-\c@savedforeword=\count329
-\c@holder=\count330
-\c@savedholder=\count331
-\c@introduction=\count332
-\c@savedintroduction=\count333
-\c@namea=\count334
-\c@savednamea=\count335
-\c@nameb=\count336
-\c@savednameb=\count337
-\c@namec=\count338
-\c@savednamec=\count339
-\c@translator=\count340
-\c@savedtranslator=\count341
-\c@shortauthor=\count342
-\c@savedshortauthor=\count343
-\c@shorteditor=\count344
-\c@savedshorteditor=\count345
-\c@groupauthor=\count346
-\c@savedgroupauthor=\count347
-\c@narrator=\count348
-\c@savednarrator=\count349
-\c@execproducer=\count350
-\c@savedexecproducer=\count351
-\c@execdirector=\count352
-\c@savedexecdirector=\count353
-\c@with=\count354
-\c@savedwith=\count355
-\c@labelname=\count356
-\c@savedlabelname=\count357
-\c@institution=\count358
-\c@savedinstitution=\count359
-\c@lista=\count360
-\c@savedlista=\count361
-\c@listb=\count362
-\c@savedlistb=\count363
-\c@listc=\count364
-\c@savedlistc=\count365
-\c@listd=\count366
-\c@savedlistd=\count367
-\c@liste=\count368
-\c@savedliste=\count369
-\c@listf=\count370
-\c@savedlistf=\count371
-\c@location=\count372
-\c@savedlocation=\count373
-\c@organization=\count374
-\c@savedorganization=\count375
-\c@origlocation=\count376
-\c@savedoriglocation=\count377
-\c@origpublisher=\count378
-\c@savedorigpublisher=\count379
-\c@publisher=\count380
-\c@savedpublisher=\count381
-\c@language=\count382
-\c@savedlanguage=\count383
-\c@origlanguage=\count384
-\c@savedoriglanguage=\count385
-\c@citation=\count386
-\c@savedcitation=\count387
-\c@pageref=\count388
-\c@savedpageref=\count389
+\c@afterword=\count314
+\c@savedafterword=\count315
+\c@annotator=\count316
+\c@savedannotator=\count317
+\c@author=\count318
+\c@savedauthor=\count319
+\c@bookauthor=\count320
+\c@savedbookauthor=\count321
+\c@commentator=\count322
+\c@savedcommentator=\count323
+\c@editor=\count324
+\c@savededitor=\count325
+\c@editora=\count326
+\c@savededitora=\count327
+\c@editorb=\count328
+\c@savededitorb=\count329
+\c@editorc=\count330
+\c@savededitorc=\count331
+\c@foreword=\count332
+\c@savedforeword=\count333
+\c@holder=\count334
+\c@savedholder=\count335
+\c@introduction=\count336
+\c@savedintroduction=\count337
+\c@namea=\count338
+\c@savednamea=\count339
+\c@nameb=\count340
+\c@savednameb=\count341
+\c@namec=\count342
+\c@savednamec=\count343
+\c@translator=\count344
+\c@savedtranslator=\count345
+\c@shortauthor=\count346
+\c@savedshortauthor=\count347
+\c@shorteditor=\count348
+\c@savedshorteditor=\count349
+\c@groupauthor=\count350
+\c@savedgroupauthor=\count351
+\c@narrator=\count352
+\c@savednarrator=\count353
+\c@execproducer=\count354
+\c@savedexecproducer=\count355
+\c@execdirector=\count356
+\c@savedexecdirector=\count357
+\c@with=\count358
+\c@savedwith=\count359
+\c@labelname=\count360
+\c@savedlabelname=\count361
+\c@institution=\count362
+\c@savedinstitution=\count363
+\c@lista=\count364
+\c@savedlista=\count365
+\c@listb=\count366
+\c@savedlistb=\count367
+\c@listc=\count368
+\c@savedlistc=\count369
+\c@listd=\count370
+\c@savedlistd=\count371
+\c@liste=\count372
+\c@savedliste=\count373
+\c@listf=\count374
+\c@savedlistf=\count375
+\c@location=\count376
+\c@savedlocation=\count377
+\c@organization=\count378
+\c@savedorganization=\count379
+\c@origlocation=\count380
+\c@savedoriglocation=\count381
+\c@origpublisher=\count382
+\c@savedorigpublisher=\count383
+\c@publisher=\count384
+\c@savedpublisher=\count385
+\c@language=\count386
+\c@savedlanguage=\count387
+\c@origlanguage=\count388
+\c@savedoriglanguage=\count389
+\c@citation=\count390
+\c@savedcitation=\count391
+\c@pageref=\count392
+\c@savedpageref=\count393
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -622,176 +569,188 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count390
-\c@textcitetotal=\count391
-\c@textcitemaxnames=\count392
-\c@biburlbigbreakpenalty=\count393
-\c@biburlbreakpenalty=\count394
-\c@biburlnumpenalty=\count395
-\c@biburlucpenalty=\count396
-\c@biburllcpenalty=\count397
+\c@textcitecount=\count394
+\c@textcitetotal=\count395
+\c@textcitemaxnames=\count396
+\c@biburlbigbreakpenalty=\count397
+\c@biburlbreakpenalty=\count398
+\c@biburlnumpenalty=\count399
+\c@biburlucpenalty=\count400
+\c@biburllcpenalty=\count401
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count398
+\c@smartand=\count402
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.bbx
-File: apa.bbx 2020/05/30 v9.13 APA biblatex references style
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2020/02/01 v9.5 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count399
-\c@bbx:relatedtotal=\count400
+\c@bbx:relatedcount=\count403
+\c@bbx:relatedtotal=\count404
 ))
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.cbx
-File: apa.cbx 2020/05/30 v9.13 APA biblatex citation style
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2020/02/01 v9.5 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, 
 overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already d
 efined, overwriting.
 Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined,
  overwriting.
+Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\fullcite'.
-Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcites'.
-Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\footcitetexts'.
-Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\citeauthor'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen148
-\Hy@linkcounter=\count401
-\Hy@pagecounter=\count402
+\@linkdim=\dimen155
+\Hy@linkcounter=\count405
+\Hy@pagecounter=\count406
 
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count403
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count407
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count404
-LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen149
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count408
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen156
 
-(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 
 ))
-\Fld@menulength=\count405
-\Field@Width=\dimen150
-\Fld@charsize=\dimen151
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring OFF on input line 6367.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+\Fld@menulength=\count409
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
 
-(/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count406
-\c@Item=\count407
-\c@Hfootnote=\count408
+\Hy@abspage=\count410
+\c@Item=\count411
+\c@Hfootnote=\count412
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2020-05-15 v7.00e Hyperref driver for luaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2020/01/14 v7.00d Hyperref driver for luaTeX
 
-(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
 )
-(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 
 )
-(/usr/share/texmf-dist/tex/latex/atveryend/atveryend.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count409
-\c@bookmark@seq@number=\count410
+\Fld@listcount=\count413
+\c@bookmark@seq@number=\count414
 
-(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 6.
 )
 \Hy@SectionHShift=\skip72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
@@ -809,31 +768,31 @@ Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
 )
 \openout1 = Trabajo_Bibliografico_Entrega_2.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 23
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 34
 .
- (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -869,94 +828,97 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 23.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 23.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 23.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 23.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 23.
-LaTeX Font Info:    Redeclaring math accent \check on input line 23.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 23.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 23.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
+LaTeX Font Info:    Redeclaring math accent \check on input line 34.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 23.
+(Font)              `operators' in the math version `normal' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/uarial(0)/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> TU/arial(0)/m/n on input line 34.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 23.
+(Font)              `operators' in the math version `bold' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/uarial(0)/m/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/arial(0)/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/uarial(0)/m/n --> TU/uarial(0)/m/n on input line 23.
+(Font)                  TU/arial(0)/m/n --> TU/arial(0)/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/uarial(0)/m/it on input line 23.
+(Font)                  OT1/cmr/m/it --> TU/arial(0)/m/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/uarial(0)/b/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/arial(0)/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/uarial(0)/m/n --> TU/uarial(0)/b/n on input line 23.
+(Font)                  TU/arial(0)/m/n --> TU/arial(0)/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/uarial(0)/b/it on input line 23.
+(Font)                  OT1/cmr/bx/it --> TU/arial(0)/b/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 23.
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 34.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count411
-\scratchdimen=\dimen152
+\scratchcounter=\count415
+\scratchdimen=\dimen159
 \scratchbox=\box46
-\nofMPsegments=\count412
-\nofMParguments=\count413
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count414
-\MPscratchDim=\dimen153
-\MPnumerator=\count415
-\makeMPintoPDFobject=\count416
-\everyMPtoPDFconversion=\toks22
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\nofMPsegments=\count416
+\nofMParguments=\count417
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count418
+\MPscratchDim=\dimen160
+\MPnumerator=\count419
+\makeMPintoPDFobject=\count420
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 5.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
-File: spanish-apa.lbx 2020/05/30 v9.13 APA biblatex localisation
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
+File: spanish-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 ))
 Package biblatex Info: LuaTeX detected.
@@ -969,1396 +931,282 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Trabajo_Bibliografico_Entrega_2.bbl' found.
 
 (./Trabajo_Bibliografico_Entrega_2.bbl)
-Package biblatex Info: Reference section=0 on input line 23.
-Package biblatex Info: Reference segment=0 on input line 23.
+Package biblatex Info: Reference section=0 on input line 34.
+Package biblatex Info: Reference segment=0 on input line 34.
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 34.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count417
+\c@section@level=\count421
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
 
 (./Trabajo_Bibliografico_Entrega_2.out) (./Trabajo_Bibliografico_Entrega_2.out)
 \@outlinefile=\write4
 
 \openout4 = Trabajo_Bibliografico_Entrega_2.out
-LaTeX Info: Redefining \rmfamily on input line 23.
-LaTeX Info: Redefining \sffamily on input line 23.
-LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
 
-Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
+Package polyglossia Warning: totalhyphenmin:'5' on input line 34.
 
-<LogoUC_COLOR_.jpg, id=4, 1003.75pt x 1340.00626pt>
-File: LogoUC_COLOR_.jpg Graphic file (type jpg)
-<use LogoUC_COLOR_.jpg>
-Package luatex.def Info: LogoUC_COLOR_.jpg  used on input line 27.
+Package cleveref Info: loaded `spanish' language definitions on input line 34.
+<img/LogoUC_COLOR_.jpg, id=56, 1003.75pt x 1340.00626pt>
+File: img/LogoUC_COLOR_.jpg Graphic file (type jpg)
+<use img/LogoUC_COLOR_.jpg>
+Package luatex.def Info: img/LogoUC_COLOR_.jpg  used on input line 38.
 (luatex.def)             Requested size: 65.44142pt x 87.34882pt.
-
-LaTeX Font Warning: Font shape `TU/uarial(0)/b/n' undefined
-(Font)              using `TU/uarial(0)/m/n' instead on input line 39.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/b/n/14.4=uarial:mode=node;language=dflt;+tlig; at 14.4pt no
-t loadable: metric data not found or bad.
-<to be read again> 
-relax 
-l.39 		{\Large XDXDXDXDXD}\\}
-                           
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/b/n/17.28=uarial:mode=node;language=dflt;+tlig; at 17.28pt 
-not loadable: metric data not found or bad.
-<to be read again> 
-relax 
-l.39 		{\Large XDXDXDXDXD}\\}
-                           
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/m/n/17.28=uarial:mode=node;language=dflt;+tlig; at 17.28pt 
-not loadable: metric data not found or bad.
-<to be read again> 
-relax 
-l.43 		{\Large
-             by}
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/b/n/12=uarial:mode=node;language=dflt;+tlig; at 12pt not lo
-adable: metric data not found or bad.
-<to be read again> 
-relax 
-l.48 			\item {
-             \textit{Nicol\'as Buzeta}}
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-
-LaTeX Font Warning: Font shape `TU/uarial(0)/m/it' undefined
-(Font)              using `TU/uarial(0)/m/n' instead on input line 48.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/m/it/12=uarial:mode=node;language=dflt;+tlig; at 12pt not l
-oadable: metric data not found or bad.
-<to be read again> 
-relax 
-l.49 			\item {\textit{Jos\'e Caceres}
-                                    }
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/m/n/8=uarial:mode=node;language=dflt;+tlig; at 8pt not load
-able: metric data not found or bad.
-<to be read again> 
-relax 
-l.56 			\begin{tabular}
-                     {rcl}
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-! Font \TU/uarial(0)/m/n/6=uarial:mode=node;language=dflt;+tlig; at 6pt not load
-able: metric data not found or bad.
-<to be read again> 
-relax 
-l.56 			\begin{tabular}
-                     {rcl}
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 56.
+(Font)              <12> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 67.
 [1
 
-Missing character: There is no P (U+0050) in font nullfont!
-Missing character: There is no O (U+004F) in font nullfont!
-Missing character: There is no N (U+004E) in font nullfont!
-Missing character: There is no T (U+0054) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no F (U+0046) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no U (U+0055) in font nullfont!
-Missing character: There is no N (U+004E) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no V (U+0056) in font nullfont!
-Missing character: There is no E (U+0045) in font nullfont!
-Missing character: There is no R (U+0052) in font nullfont!
-Missing character: There is no S (U+0053) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no T (U+0054) in font nullfont!
-Missing character: There is no O (U+004F) in font nullfont!
-Missing character: There is no L (U+004C) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no E (U+0045) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no H (U+0048) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no L (U+004C) in font nullfont!
-Missing character: There is no E (U+0045) in font nullfont!
-Missing character: There is no F (U+0046) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no U (U+0055) in font nullfont!
-Missing character: There is no L (U+004C) in font nullfont!
-Missing character: There is no T (U+0054) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no E (U+0045) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no O (U+004F) in font nullfont!
-Missing character: There is no L (U+004C) in font nullfont!
-Missing character: There is no O (U+004F) in font nullfont!
-Missing character: There is no G (U+0047) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no I (U+0049) in font nullfont!
-Missing character: There is no O (U+004F) in font nullfont!
-Missing character: There is no 1 (U+0031) in font nullfont!
-Missing character: There is no 4 (U+0034) in font nullfont!
-Missing character: There is no 1 (U+0031) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no T (U+0054) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no b (U+0062) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no j (U+006A) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no b (U+0062) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no g (U+0067) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no á (U+00E1) in font nullfont!
-Missing character: There is no f (U+0066) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no - (U+002D) in font nullfont!
-Missing character: There is no E (U+0045) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no t (U+0074) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no g (U+0067) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no 2 (U+0032) in font nullfont!
-Missing character: There is no : (U+003A) in font nullfont!
-Missing character: There is no X (U+0058) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no X (U+0058) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no X (U+0058) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no X (U+0058) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no X (U+0058) in font nullfont!
-Missing character: There is no D (U+0044) in font nullfont!
-Missing character: There is no b (U+0062) in font nullfont!
-Missing character: There is no y (U+0079) in font nullfont!
-Missing character: There is no N (U+004E) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no ́ (U+0301) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no u (U+0075) in font nullfont!
-Missing character: There is no z (U+007A) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no t (U+0074) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no J (U+004A) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no ́ (U+0301) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no j (U+006A) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no m (U+006D) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no B (U+0042) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no ́ (U+0301) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no v (U+0076) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no z (U+007A) in font nullfont!
-Missing character: There is no P (U+0050) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no f (U+0066) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no : (U+003A) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no N (U+004E) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no g (U+0067) in font nullfont!
-Missing character: There is no u (U+0075) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no T (U+0054) in font nullfont!
-Missing character: There is no u (U+0075) in font nullfont!
-Missing character: There is no t (U+0074) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no : (U+003A) in font nullfont!
-Missing character: There is no A (U+0041) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no d (U+0064) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no ́ (U+0301) in font nullfont!
-Missing character: There is no s (U+0073) in font nullfont!
-Missing character: There is no C (U+0043) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no ñ (U+00F1) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no 1 (U+0031) in font nullfont!
-Missing character: There is no 7 (U+0037) in font nullfont!
-Missing character: There is no d (U+0064) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no o (U+006F) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no t (U+0074) in font nullfont!
-Missing character: There is no u (U+0075) in font nullfont!
-Missing character: There is no b (U+0062) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no d (U+0064) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no 2 (U+0032) in font nullfont!
-Missing character: There is no 0 (U+0030) in font nullfont!
-Missing character: There is no 2 (U+0032) in font nullfont!
-Missing character: There is no 0 (U+0030) in font nullfont!
-<./LogoUC_COLOR_.jpg>] (./Trabajo_Bibliografico_Entrega_2.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./img/LogoUC_COLOR_.jpg>] (./Trabajo_Bibliografico_Entrega_2.toc
+LaTeX Info: Redefining \rmfamily on input line 3.
+LaTeX Info: Redefining \sffamily on input line 3.
+LaTeX Info: Redefining \ttfamily on input line 3.
+
+
+Package polyglossia Warning: totalhyphenmin:'5' on input line 3.
+
+Package cleveref Info: loaded `spanish' language definitions on input line 3.
+)
 \tf@toc=\write5
 
 \openout5 = Trabajo_Bibliografico_Entrega_2.toc
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
-[1
-Missing character: There is no Í (U+00CD) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no d (U+0064) in font nullfont!
-Missing character: There is no i (U+0069) in font nullfont!
-Missing character: There is no c (U+0063) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no g (U+0067) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no n (U+006E) in font nullfont!
-Missing character: There is no e (U+0065) in font nullfont!
-Missing character: There is no r (U+0072) in font nullfont!
-Missing character: There is no a (U+0061) in font nullfont!
-Missing character: There is no l (U+006C) in font nullfont!
-Missing character: There is no 1 (U+0031) in font nullfont!
+[1]
+
+Package biblatex Warning: Package option 'sortcites' enabled.
+(biblatex)                Verify postnote placement on input line 88.
+
+[2]
+<img/nucleus-structure-rynearsonNuclearStructureOrganization2011.jpg, id=110, 89
+1.33pt x 668.4975pt>
+File: img/nucleus-structure-rynearsonNuclearStructureOrganization2011.jpg Graphi
+c file (type jpg)
+<use img/nucleus-structure-rynearsonNuclearStructureOrganization2011.jpg>
+Package luatex.def Info: img/nucleus-structure-rynearsonNuclearStructureOrganiza
+tion2011.jpg  used on input line 114.
+(luatex.def)             Requested size: 227.62204pt x 170.71451pt.
+ [3<./img/nucleus-structure-rynearsonNuclearStructureOrganization2011.jpg>]
+[4]
+<img/nucleus-matrix-rynearsonNuclearStructureOrganization2011.jpg, id=122, 498.8
+6375pt x 415.5525pt>
+File: img/nucleus-matrix-rynearsonNuclearStructureOrganization2011.jpg Graphic f
+ile (type jpg)
+<use img/nucleus-matrix-rynearsonNuclearStructureOrganization2011.jpg>
+Package luatex.def Info: img/nucleus-matrix-rynearsonNuclearStructureOrganizatio
+n2011.jpg  used on input line 137.
+(luatex.def)             Requested size: 213.39566pt x 177.75833pt.
+ [5<./img/nucleus-matrix-rynearsonNuclearStructureOrganization2011.jpg>]
+[6] [7]
+<img/nuclear-margin-irregularities-deyCancerNucleusMorphology2010.jpg, id=145, 6
+53.44125pt x 560.0925pt>
+File: img/nuclear-margin-irregularities-deyCancerNucleusMorphology2010.jpg Graph
+ic file (type jpg)
+<use img/nuclear-margin-irregularities-deyCancerNucleusMorphology2010.jpg>
+Package luatex.def Info: img/nuclear-margin-irregularities-deyCancerNucleusMorph
+ology2010.jpg  used on input line 177.
+(luatex.def)             Requested size: 170.71652pt x 146.32141pt.
+ [8<./img/nuclear-margin-irregularities-deyCancerNucleusMorphology2010.jpg>] [9
 ]
-! \textfont0 is undefined (character 104).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 104).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 112).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 112).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 115).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 115).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 58).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 121).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 121).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 46).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 109).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 109).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 98).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 98).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 101).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 101).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 46).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 100).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 99).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 116).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 111).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 114).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 121).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 121).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 101).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 101).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 110).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 103).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 108).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 108).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 105).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 115).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 115).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 104).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 104).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 47).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 109).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 109).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-Somewhere in the math formula just ended, you used the
-stated character from an undefined font family. For example,
-plain TeX doesn't allow \it or \sl in subscripts. Proceed,
-and I'll try to forget that I needed that character.
-
-! \textfont0 is undefined (character 97).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.90 \end
-       {document}
-(That makes 100 errors; please try again.)
+<img/table-1-zinkNuclearStructureCancer2004.png, id=162, 520.94624pt x 334.24875
+pt>
+File: img/table-1-zinkNuclearStructureCancer2004.png Graphic file (type png)
+<use img/table-1-zinkNuclearStructureCancer2004.png>
+Package luatex.def Info: img/table-1-zinkNuclearStructureCancer2004.png  used on
+ input line 207.
+(luatex.def)             Requested size: 213.39566pt x 136.92046pt.
+ [10<./img/table-1-zinkNuclearStructureCancer2004.png>]
+<img/endopolyploid-nuclei-thermanStructureOriginGiant1983.jpg, id=172, 514.92375
+pt x 109.40875pt>
+File: img/endopolyploid-nuclei-thermanStructureOriginGiant1983.jpg Graphic file 
+(type jpg)
+<use img/endopolyploid-nuclei-thermanStructureOriginGiant1983.jpg>
+Package luatex.def Info: img/endopolyploid-nuclei-thermanStructureOriginGiant198
+3.jpg  used on input line 224.
+(luatex.def)             Requested size: 341.43306pt x 72.54721pt.
+ [11<./img/endopolyploid-nuclei-thermanStructureOriginGiant1983.jpg>]
+<img/cancerous-nuclei-thermanStructureOriginGiant1983.png, id=181, 622.325pt x 1
+88.705pt>
+File: img/cancerous-nuclei-thermanStructureOriginGiant1983.png Graphic file (typ
+e png)
+<use img/cancerous-nuclei-thermanStructureOriginGiant1983.png>
+Package luatex.def Info: img/cancerous-nuclei-thermanStructureOriginGiant1983.pn
+g  used on input line 234.
+(luatex.def)             Requested size: 284.52756pt x 86.27553pt.
+ [12<./img/cancerous-nuclei-thermanStructureOriginGiant1983.png>] [13]
+<img/1d-classification-kourouMachineLearningApplications2015.png, id=194, 554.07
+pt x 285.065pt>
+File: img/1d-classification-kourouMachineLearningApplications2015.png Graphic fi
+le (type png)
+<use img/1d-classification-kourouMachineLearningApplications2015.png>
+Package luatex.def Info: img/1d-classification-kourouMachineLearningApplications
+2015.png  used on input line 268.
+(luatex.def)             Requested size: 312.9803pt x 161.02722pt.
+ [14<./img/1d-classification-kourouMachineLearningApplications2015.png>]
+<img/2d-classification-kourouMachineLearningApplications2015.png, id=203, 541.02
+126pt x 282.05376pt>
+File: img/2d-classification-kourouMachineLearningApplications2015.png Graphic fi
+le (type png)
+<use img/2d-classification-kourouMachineLearningApplications2015.png>
+Package luatex.def Info: img/2d-classification-kourouMachineLearningApplications
+2015.png  used on input line 283.
+(luatex.def)             Requested size: 256.0748pt x 133.5035pt.
+<img/ann-kourouMachineLearningApplications2015.png, id=205, 327.2225pt x 282.053
+76pt>
+File: img/ann-kourouMachineLearningApplications2015.png Graphic file (type png)
+<use img/ann-kourouMachineLearningApplications2015.png>
+Package luatex.def Info: img/ann-kourouMachineLearningApplications2015.png  used
+ on input line 296.
+(luatex.def)             Requested size: 227.62204pt x 196.20108pt.
+ [15<./img/2d-classification-kourouMachineLearningApplications2015.png><./img/an
+n-kourouMachineLearningApplications2015.png>]
+<img/tree-kourouMachineLearningApplications2015.png, id=216, 554.07pt x 375.4025
+pt>
+File: img/tree-kourouMachineLearningApplications2015.png Graphic file (type png)
+
+<use img/tree-kourouMachineLearningApplications2015.png>
+Package luatex.def Info: img/tree-kourouMachineLearningApplications2015.png  use
+d on input line 308.
+(luatex.def)             Requested size: 227.62204pt x 154.2196pt.
+ [16<./img/tree-kourouMachineLearningApplications2015.png>]
+<img/hm-stain-sirinukunwattanaLocalitySensitiveDeep2016.png, id=225, 1828.8325pt
+ x 921.4425pt>
+File: img/hm-stain-sirinukunwattanaLocalitySensitiveDeep2016.png Graphic file (t
+ype png)
+<use img/hm-stain-sirinukunwattanaLocalitySensitiveDeep2016.png>
+Package luatex.def Info: img/hm-stain-sirinukunwattanaLocalitySensitiveDeep2016.
+png  used on input line 323.
+(luatex.def)             Requested size: 227.62204pt x 114.67386pt.
+<img/a-sirinukunwattanaLocalitySensitiveDeep2016.png, id=229, 401.5pt x 401.5pt>
+
+File: img/a-sirinukunwattanaLocalitySensitiveDeep2016.png Graphic file (type png
+)
+<use img/a-sirinukunwattanaLocalitySensitiveDeep2016.png>
+Package luatex.def Info: img/a-sirinukunwattanaLocalitySensitiveDeep2016.png  us
+ed on input line 334.
+(luatex.def)             Requested size: 113.81102pt x 113.80992pt.
+<img/b-sirinukunwattanaLocalitySensitiveDeep2016.png, id=230, 200.75pt x 200.75p
+t>
+File: img/b-sirinukunwattanaLocalitySensitiveDeep2016.png Graphic file (type png
+)
+<use img/b-sirinukunwattanaLocalitySensitiveDeep2016.png>
+Package luatex.def Info: img/b-sirinukunwattanaLocalitySensitiveDeep2016.png  us
+ed on input line 339.
+(luatex.def)             Requested size: 113.81102pt x 113.81297pt.
+<img/c-sirinukunwattanaLocalitySensitiveDeep2016.png, id=231, 1202.4925pt x 1202
+.4925pt>
+File: img/c-sirinukunwattanaLocalitySensitiveDeep2016.png Graphic file (type png
+)
+<use img/c-sirinukunwattanaLocalitySensitiveDeep2016.png>
+Package luatex.def Info: img/c-sirinukunwattanaLocalitySensitiveDeep2016.png  us
+ed on input line 344.
+(luatex.def)             Requested size: 113.81102pt x 113.7976pt.
+ [17<./img/hm-stain-sirinukunwattanaLocalitySensitiveDeep2016.png><./img/a-sirin
+ukunwattanaLocalitySensitiveDeep2016.png><./img/b-sirinukunwattanaLocalitySensit
+iveDeep2016.png><./img/c-sirinukunwattanaLocalitySensitiveDeep2016.png>] [18] [
+19] [20]
+Overfull \hbox (251.04958pt too wide) in paragraph at lines 387--387
+\TU/arial(0)/m/n/12 _eprint: https://on-li-ne-li-brary.wi-ley.com/doi/pdf/10.10
+02/%28SICI%291097-4644%2819980801%2970%3A2%3C172%3A%3AAID-
+ []
+
+[21]
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/script}  =>  {latin}
+>  {spanish/lcscript}  =>  {latin}
+>  {spanish/scripttag}  =>  {}
+>  {spanish/language}  =>  {Spanish}
+>  {spanish/langtag}  =>  {ESP}
+>  {spanish/bcp47}  =>  {es-ES}
+>  {spanish/hyphennames}  =>  {spanish}
+>  {spanish/direction}  =>  {LR}
+>  {spanish/hyphenmins}  =>  {2,2}
+>  {spanish/frenchspacing}  =>  {true}
+>  {spanish/indentfirst}  =>  {true}
+>  {spanish/fontsetup}  =>  {true}
+>  {spanish/envname}  =>  {spanish}
+>  {spanish/babelname}  =>  {spanish}
+>  {spanish/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/totalhyphenmin}  =>  {5}.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 388.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 388.
+ (./Trabajo_Bibliografico_Entrega_2.aux
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+
+
+Package polyglossia Warning: totalhyphenmin:'5' on input line 23.
+
+Package cleveref Info: loaded `spanish' language definitions on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 388.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 388.
+Package rerunfilecheck Info: File `Trabajo_Bibliografico_Entrega_2.out' has not 
+changed.
+(rerunfilecheck)             Checksum: 38906CDCFF96A3E943D8C0B6AC83A13C;1269.
+Package logreq Info: Writing requests to 'Trabajo_Bibliografico_Entrega_2.run.xm
+l'.
+
+\openout1 = Trabajo_Bibliografico_Entrega_2.run.xml
+)
 
 Here is how much of LuaTeX's memory you used:
- 21365 strings out of 480885
+ 24769 strings out of 481365
  125171,1373583 words of node,token memory allocated
- 22419 words of node memory still in use:
-   25 hlist, 2 rule, 9 local_par, 2 dir, 1 math, 503 glue, 6 kern, 30 penalty, 6
-8 noad, 14 math_char, 1 math_text_char, 2392 glyph, 125 attribute, 84 glue_spec,
- 125 attribute_list, 1 temp, 1 shape, 8 write, 5 pdf_start_link, 4 pdf_end_link,
- 4 pdf_dest, 5 pdf_action nodes
-   avail lists: 2:2,3:53,4:6,5:5,9:38,10:8
- 38440 multiletter control sequences out of 65536+600000
- 36 fonts using 4018099 bytes
- 51i,6n,73p,849b,2704s stack positions out of 5000i,500n,10000p,200000b,100000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 601 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 17 attribute, 61 glue_spec
+, 17 attribute_list, 1 write, 13 pdf_action nodes
+   avail lists: 1:1,2:785,3:295,4:41,5:74,6:19,7:3942,8:96,9:123,10:31,11:519,12
+:9
+ 41039 multiletter control sequences out of 65536+600000
+ 56 fonts using 7968299 bytes
+ 57i,7n,99p,2277b,3167s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf></usr/share/fonts/true
+type/msttcorefonts/Arial_Bold.ttf></usr/share/fonts/truetype/msttcorefonts/Arial
+.ttf>
+Output written on Trabajo_Bibliografico_Entrega_2.pdf (23 pages, 8573396 bytes).
+
+
+PDF statistics: 327 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 131072)
+ 105 words of extra memory for PDF output out of 10000 (max. 100000000)
+
