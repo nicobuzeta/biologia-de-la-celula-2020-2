@@ -1,2 +1,18 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'Trabajo_Bibliografico_Entrega_2.blg'
+[51] biber:322> INFO - === dom oct 18, 2020, 23:28:55
+[61] Biber.pm:415> INFO - Reading 'Trabajo_Bibliografico_Entrega_2.bcf'
+[114] Biber.pm:943> INFO - Found 16 citekeys in bib section 0
+[124] Biber.pm:4256> INFO - Processing section 0
+[125] Utils.pm:75> INFO - Globbing data source 'Trabajo_Bibliografico_Entrega_2.bib'
+[125] Utils.pm:91> INFO - Globbed data source 'Trabajo_Bibliografico_Entrega_2.bib' to Trabajo_Bibliografico_Entrega_2.bib
+[131] Biber.pm:4455> INFO - Looking for bibtex format file 'Trabajo_Bibliografico_Entrega_2.bib' for section 0
+[134] bibtex.pm:1653> INFO - LaTeX decoding ...
+[173] bibtex.pm:1471> INFO - Found BibTeX data source 'Trabajo_Bibliografico_Entrega_2.bib'
+[253] Utils.pm:293> WARN - year field '04/21/2015 - 08:00' in entry 'CommonCancerTypes2015b' is not an integer - this will probably not sort properly.
+[289] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[289] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[289] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[305] bbl.pm:652> INFO - Writing 'Trabajo_Bibliografico_Entrega_2.bbl' with encoding 'UTF-8'
+[318] bbl.pm:755> INFO - Output to Trabajo_Bibliografico_Entrega_2.bbl
+[318] Biber.pm:128> INFO - WARNINGS: 1

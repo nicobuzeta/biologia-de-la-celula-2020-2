@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.10.3)  18 OCT 2020 23:12
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.10.3)  18 OCT 2020 23:28
  restricted system commands enabled.
 **Trabajo_Bibliografico_Entrega_2.tex
 (./Trabajo_Bibliografico_Entrega_2.tex
@@ -261,12 +261,12 @@ braces):
 >  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
-(polyglossia)            loader	loadhyph-es.tex
-(polyglossia)            synonyms	espanol
-(polyglossia)            hyphenation	
 (polyglossia)            patterns	hyph-es.pat.txt
-(polyglossia)            lefthyphenmin	2
-(polyglossia)            righthyphenmin	2 on input line 13
+(polyglossia)            loader	loadhyph-es.tex
+(polyglossia)            righthyphenmin	2
+(polyglossia)            hyphenation	
+(polyglossia)            synonyms	espanol
+(polyglossia)            lefthyphenmin	2 on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -1123,11 +1123,6 @@ ed on input line 344.
 ukunwattanaLocalitySensitiveDeep2016.png><./img/b-sirinukunwattanaLocalitySensit
 iveDeep2016.png><./img/c-sirinukunwattanaLocalitySensitiveDeep2016.png>] [18] [
 19] [20]
-Overfull \hbox (251.04958pt too wide) in paragraph at lines 387--387
-\TU/arial(0)/m/n/12 _eprint: https://on-li-ne-li-brary.wi-ley.com/doi/pdf/10.10
-02/%28SICI%291097-4644%2819980801%2970%3A2%3C172%3A%3AAID-
- []
-
 [21]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -1194,7 +1189,7 @@ Here is how much of LuaTeX's memory you used:
  601 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 17 attribute, 61 glue_spec
 , 17 attribute_list, 1 write, 13 pdf_action nodes
-   avail lists: 1:1,2:785,3:295,4:41,5:74,6:19,7:3942,8:96,9:123,10:31,11:519,12
+   avail lists: 1:1,2:781,3:291,4:41,5:74,6:19,7:3942,8:96,9:123,10:31,11:519,12
 :9
  41039 multiletter control sequences out of 65536+600000
  56 fonts using 7968299 bytes
@@ -1202,7 +1197,7 @@ Here is how much of LuaTeX's memory you used:
 </usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf></usr/share/fonts/true
 type/msttcorefonts/Arial_Bold.ttf></usr/share/fonts/truetype/msttcorefonts/Arial
 .ttf>
-Output written on Trabajo_Bibliografico_Entrega_2.pdf (23 pages, 8573396 bytes).
+Output written on Trabajo_Bibliografico_Entrega_2.pdf (23 pages, 8573351 bytes).
 
 
 PDF statistics: 327 PDF objects out of 1000 (max. 8388607)
